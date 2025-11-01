@@ -1,0 +1,12 @@
+<objects>
+	<object Name="FortUrfurufuru_TerrainFort" Inherits="Terrain">
+		<part Name="Render" DisplayName="Fort Urfurufuru" Tile="FortUrfurufuru\FortUrfurufuru.png"
+			DetailColor="C" RenderString="127" ColorString="&amp;w" />
+		<part Name="Description"
+			Short="A rickety pile of lumber towers above the scavenged land." />
+		<tag Name="NoBiomes" Value="1" />
+		<xtagGrammar Proper="true" massNoun="false" />
+		<tag Name="OverlayColor" Value="&amp;W" />
+		<tag Name="Terrain" Value="Hills" />
+	</object>
+</objects>

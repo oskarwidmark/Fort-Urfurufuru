@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map
+  Width="80"
+  Hight="25">
+  <cell
+    X="10"
+    Y="24">
+    <object Name="FortUrfurufuru_TerrainFort"></object>
+  </cell>
+</Map>

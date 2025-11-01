@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects>
+	<object Name="FortUrfurufuru_Urfurufuru" Inherits="Snapjaw">
+		<part Name="Render" DisplayName="Urfurufuru" Tile="FortUrfurufuru/Urfurufuru_sm.png"
+			ColorString="&amp;W"
+			DetailColor="R" />
+		<part Name="Description" Short="Crimson eyes peer out from a shawl covering sallow skin." />
+		<part Name="GivesRep" />
+		<part Name="Brain" Wanders="false" />
+
+		<mutation Name="DarkVision" Level="1" />
+		<mutation Name="Regeneration" Level="5" />
+
+		<inventoryobject Blueprint="Scarlet Shawl" Number="1" />
+		<inventoryobject Blueprint="Sandals" Number="1" />
+		<inventoryobject Blueprint="Phase Cannon" Number="1" />
+		<inventoryobject Blueprint="Nuclear Cell" Number="1" />
+		<inventoryobject Blueprint="Waterskin" Number="3" />
+
+		<skill Name="HeavyWeapons" />
+		<skill Name="HeavyWeapons_Tank" />
+		<skill Name="HeavyWeapons_Sweep" />
+
+		<tag Name="ExcludeFromDynamicEncounters" Value="*noinherit" />
+		<tag Name="Gender" Value="male" />
+
+		<stat Name="Intelligence" sValue="22" />
+		<stat Name="Willpower" sValue="20" />
+		<stat Name="Ego" sValue="26" />
+		<stat Name="Hitpoints" Value="100" />
+		<stat Name="Level" Value="30" />
+
+		<xtagGrammar Proper="true" />
+	</object>
+</objects>
