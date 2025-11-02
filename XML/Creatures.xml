@@ -26,6 +26,8 @@
 		<tag Name="ExcludeFromDynamicEncounters" Value="*noinherit" />
 		<tag Name="Gender" Value="male" />
 
+		<stat Name="Strength" sValue="22" />
+		<stat Name="Agility" sValue="26" />
 		<stat Name="Intelligence" sValue="22" />
 		<stat Name="Willpower" sValue="20" />
 		<stat Name="Ego" sValue="26" />
