@@ -12,7 +12,7 @@
 				IncludeStratumInZoneDisplay="false" DisableForcedConnections="Yes">
 				<map FileName="FortUrfurufuruCenter.rpm" />
 				<builder Class="FlagInside" />
-				<builder Class="Music" Track="Onward" Chance="100" />
+				<builder Class="Music" Track="Overworld" Chance="100" />
 				<builder Class="IsCheckpoint" Key="FortUrfurufuru" />
 			</zone>
 		</cell>

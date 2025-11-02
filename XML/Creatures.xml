@@ -6,10 +6,12 @@
 			DetailColor="R" />
 		<part Name="Description" Short="Crimson eyes peer out from a shawl covering sallow skin." />
 		<part Name="GivesRep" />
-		<part Name="Brain" Wanders="false" />
+		<part Name="Brain" Wanders="false" Factions="FortUrfurufuru_UrfurufuruFaction-100" />
+		<part Name="Corpse" CorpseChance="100" CorpseBlueprint="Snapjaw Corpse" />
 
 		<mutation Name="DarkVision" Level="1" />
 		<mutation Name="Regeneration" Level="5" />
+		<mutation Name="Teleportation" Level="5" />
 
 		<inventoryobject Blueprint="Scarlet Shawl" Number="1" />
 		<inventoryobject Blueprint="Sandals" Number="1" />
@@ -31,5 +33,80 @@
 		<stat Name="Level" Value="30" />
 
 		<xtagGrammar Proper="true" />
+	</object>
+	<object Name="Snapjaw Warrior Urfurufuru" Inherits="Snapjaw Warrior 2">
+		<part Name="Brain" Wanders="false" Factions="FortUrfurufuru_UrfurufuruFaction-100" />
+		<tag Name="ExcludeFromDynamicEncounters" />
+		<tag Name="Role" Value="Minion" />
+		<part Name="Preacher" Book="UrfurufuruPraise" Prefix="The snapjaw growls, {{W|'"
+			Frozen="The snapjaw growls inaudibly, encased in ice." inOrder="true" ChatWait="200" />
+		<part Name="ConversationScript" ConversationID="Snapjaw Urfurufuru" />
+	</object>
+	<object Name="Snapjaw Warlord Urfurufuru" Inherits="Snapjaw Warlord 2">
+		<part Name="Brain" Wanders="false" Factions="FortUrfurufuru_UrfurufuruFaction-100" />
+		<tag Name="ExcludeFromDynamicEncounters" />
+		<tag Name="Role" Value="Minion" />
+		<part Name="ConversationScript" ConversationID="Snapjaw Urfurufuru" />
+	</object>
+	<object Name="Snapjaw Hero Urfurufuru" Inherits="Snapjaw Warlord">
+		<part Name="Brain" Wanders="false" Factions="FortUrfurufuru_UrfurufuruFaction-100" />
+		<part Name="Render" DisplayName="snapjaw warlord" ColorString="&amp;M" />
+		<stat Name="Hitpoints" Value="25" />
+		<builder Name="SnapjawHero1" />
+		<tag Name="DynamicObjectsTable:Snapjaws" />
+		<tag Name="ExcludeFromDynamicEncounters" />
+		<tag Name="Role" Value="Minion" />
+		<part Name="ConversationScript" ConversationID="Snapjaw Urfurufuru" />
+	</object>
+	<object Name="Snapjaw Brute Urfurufuru" Inherits="Snapjaw Brute 2">
+		<part Name="Brain" Wanders="false" Factions="FortUrfurufuru_UrfurufuruFaction-100" />
+		<tag Name="ExcludeFromDynamicEncounters" />
+		<tag Name="Role" Value="Minion" />
+		<part Name="ConversationScript" ConversationID="Snapjaw Urfurufuru" />
+	</object>
+	<object Name="Snapjaw Shotgunner Urfurufuru" Inherits="Snapjaw Shotgunner 2">
+		<part Name="Brain" Wanders="false" Factions="FortUrfurufuru_UrfurufuruFaction-100" />
+		<tag Name="ExcludeFromDynamicEncounters" />
+		<tag Name="Role" Value="Minion" />
+		<part Name="ConversationScript" ConversationID="Snapjaw Urfurufuru" />
+	</object>
+	<object Name="Snapjaw Hunter Urfurufuru" Inherits="Snapjaw Hunter 2">
+		<part Name="Brain" Wanders="false" Factions="FortUrfurufuru_UrfurufuruFaction-100" />
+		<tag Name="ExcludeFromDynamicEncounters" />
+		<tag Name="Role" Value="Minion" />
+		<part Name="ConversationScript" ConversationID="Snapjaw Urfurufuru" />
+	</object>
+	<object Name="Snapjaw Scavenger Urfurufuru" Inherits="Snapjaw Scavenger 2">
+		<part Name="Brain" Wanders="false" Factions="FortUrfurufuru_UrfurufuruFaction-100" />
+		<tag Name="ExcludeFromDynamicEncounters" />
+		<tag Name="Role" Value="Minion" />
+		<part Name="ConversationScript" ConversationID="Snapjaw Urfurufuru" />
+	</object>
+	<object Name="Snapjaw Scavenger Urfurufuru" Inherits="Snapjaw Scavenger 2">
+		<part Name="Brain" Wanders="false" Factions="FortUrfurufuru_UrfurufuruFaction-100" />
+		<tag Name="ExcludeFromDynamicEncounters" />
+		<tag Name="Role" Value="Minion" />
+		<part Name="ConversationScript" ConversationID="Snapjaw Urfurufuru" />
+	</object>
+
+	<object Name="Snapjaw Scavenger Urfurufuru" Inherits="Snapjaw Scavenger 2">
+		<part Name="Brain" Wanders="false" Factions="FortUrfurufuru_UrfurufuruFaction-100" />
+		<tag Name="ExcludeFromDynamicEncounters" />
+		<tag Name="Role" Value="Minion" />
+		<part Name="ConversationScript" ConversationID="Snapjaw Urfurufuru" />
+	</object>
+	<object Name="Snapjaw Howler Urfurufuru" Inherits="Snapjaw Howler">
+		<part Name="Brain" Wanders="false" Factions="FortUrfurufuru_UrfurufuruFaction-100" />
+		<tag Name="ExcludeFromDynamicEncounters" />
+		<tag Name="Role" Value="Minion" />
+		<part Name="Preacher" Book="UrfurufuruPraise" Prefix="The snapjaw growls, {{W|'"
+			Frozen="The snapjaw growls inaudibly, encased in ice." inOrder="true" ChatWait="200" />
+		<part Name="ConversationScript" ConversationID="Snapjaw Urfurufuru" />
+	</object>
+	<object Name="Snapjaw Feeder Urfurufuru" Inherits="Snapjaw Feeder">
+		<part Name="Brain" Wanders="false" Factions="FortUrfurufuru_UrfurufuruFaction-100" />
+		<tag Name="ExcludeFromDynamicEncounters" />
+		<tag Name="Role" Value="Minion" />
+		<part Name="ConversationScript" ConversationID="Snapjaw Urfurufuru" />
 	</object>
 </objects>

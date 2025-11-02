@@ -1,0 +1,32 @@
+<conversations>
+    <conversation ID="Snapjaw Urfurufuru">
+        <node ID="Start">
+            <text>
+                ehehehehehe.~
+                EHEHEHEHEHEHEHE!~
+                ehe. ehehe. ehehehehehehe!~
+                gn. grn. hrf. hn. hf.~
+                nyeh heheheheheh.~
+                what!~
+                uhuhuhuuu...~
+                rrrrrr...~
+                huff.~
+                ehehe! ehehehe! AHAHAHAH!~
+                ehh, what for you talk me? Talk Urfurufuru!~
+                eheh.~
+                hah!~
+                gahaha!~
+                ahahahaa!~
+                urfurufurufurufurufuru.~
+                oooh hohohohoho.~
+                geh heh heh heh heh.~
+                ahahahahahahahahahahaha!~
+                ehehehe Urfurufuru clever hohoho.~
+                rrrrrr Urfurufuru strong ehehe!~
+                oooh Urfurufuru wise hah!~
+                hrf Urfurufuru hrf hrn.
+            </text>
+            <choice GotoID="End">...live and drink.</choice>
+        </node>
+    </conversation>
+</conversations>

@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Map Width="80" Height="25">
-  <cell X="0" Y="0"></cell>
+  <cell X="0" Y="0">
+    <object Name="DaylightWidget"></object>
+    <object Name="Grassy"></object>
+  </cell>
   <cell X="1" Y="0"></cell>
   <cell X="2" Y="0"></cell>
   <cell X="3" Y="0"></cell>
@@ -388,7 +391,7 @@
   <cell X="12" Y="3">
     <object Name="DirtRoad"></object>
     <object Name="Garbage"></object>
-    <object Name="Snapjaw Shotgunner 2"></object>
+    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
   </cell>
   <cell X="13" Y="3">
     <object Name="DirtRoad"></object>
@@ -427,7 +430,7 @@
   </cell>
   <cell X="24" Y="3">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Hunter 2"></object>
+    <object Name="Snapjaw Hunter Urfurufuru"></object>
   </cell>
   <cell X="25" Y="3">
     <object Name="DirtRoad"></object>
@@ -464,7 +467,7 @@
   </cell>
   <cell X="36" Y="3">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Shotgunner 2"></object>
+    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
   </cell>
   <cell X="37" Y="3">
     <object Name="DirtRoad"></object>
@@ -486,7 +489,7 @@
   </cell>
   <cell X="43" Y="3">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Shotgunner 2"></object>
+    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
   </cell>
   <cell X="44" Y="3">
     <object Name="DirtRoad"></object>
@@ -523,7 +526,7 @@
   </cell>
   <cell X="55" Y="3">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Hunter 2"></object>
+    <object Name="Snapjaw Hunter Urfurufuru"></object>
   </cell>
   <cell X="56" Y="3">
     <object Name="DirtRoad"></object>
@@ -562,7 +565,7 @@
   <cell X="67" Y="3">
     <object Name="DirtRoad"></object>
     <object Name="Garbage"></object>
-    <object Name="Snapjaw Shotgunner 2"></object>
+    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
   </cell>
   <cell X="68" Y="3">
     <object Name="DirtRoad"></object>
@@ -599,7 +602,7 @@
   <cell X="11" Y="4">
     <object Name="DirtRoad"></object>
     <object Name="Garbage"></object>
-    <object Name="Snapjaw Shotgunner 2"></object>
+    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
   </cell>
   <cell X="12" Y="4">
     <object Name="DirtRoad"></object>
@@ -774,7 +777,7 @@
   <cell X="68" Y="4">
     <object Name="DirtRoad"></object>
     <object Name="Garbage"></object>
-    <object Name="Snapjaw Shotgunner 2"></object>
+    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
   </cell>
   <cell X="69" Y="4">
     <object Name="WoodFence"></object>
@@ -1512,7 +1515,7 @@
   <cell X="28" Y="8">
     <object Name="DirtRoad"></object>
     <object Name="BaseChair"></object>
-    <object Name="Snapjaw Hero 1"></object>
+    <object Name="Snapjaw Hero Urfurufuru"></object>
   </cell>
   <cell X="29" Y="8">
     <object Name="DirtRoad"></object>
@@ -1580,7 +1583,7 @@
   </cell>
   <cell X="49" Y="8">
     <object Name="VestibuleFloor"></object>
-    <object Name="Snapjaw Troglodyte"></object>
+    <object Name="Snapjaw Feeder Urfurufuru"></object>
   </cell>
   <cell X="50" Y="8">
     <object Name="DirtRoad"></object>
@@ -1785,7 +1788,7 @@
   </cell>
   <cell X="47" Y="9">
     <object Name="VestibuleFloor"></object>
-    <object Name="Snapjaw Troglodyte"></object>
+    <object Name="Snapjaw Feeder Urfurufuru"></object>
   </cell>
   <cell X="48" Y="9">
     <object Name="VestibuleFloor"></object>
@@ -1955,7 +1958,7 @@
   </cell>
   <cell X="32" Y="10">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Brute 2"></object>
+    <object Name="Snapjaw Brute Urfurufuru"></object>
   </cell>
   <cell X="33" Y="10">
     <object Name="DirtRoad"></object>
@@ -1972,7 +1975,7 @@
   <cell X="37" Y="10">
     <object Name="DirtRoad"></object>
     <object Name="Floor Cushion"></object>
-    <object Name="Snapjaw Scavenger 2"></object>
+    <object Name="Snapjaw Scavenger Urfurufuru"></object>
   </cell>
   <cell X="38" Y="10">
     <object Name="DirtRoad"></object>
@@ -1989,7 +1992,7 @@
   <cell X="42" Y="10">
     <object Name="DirtRoad"></object>
     <object Name="Floor Cushion"></object>
-    <object Name="Snapjaw Scavenger 2"></object>
+    <object Name="Snapjaw Scavenger Urfurufuru"></object>
   </cell>
   <cell X="43" Y="10">
     <object Name="DirtRoad"></object>
@@ -2171,7 +2174,7 @@
   </cell>
   <cell X="30" Y="11">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Brute 2"></object>
+    <object Name="Snapjaw Brute Urfurufuru"></object>
   </cell>
   <cell X="31" Y="11">
     <object Name="DirtRoad"></object>
@@ -2184,7 +2187,7 @@
   </cell>
   <cell X="34" Y="11">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Brute 2"></object>
+    <object Name="Snapjaw Brute Urfurufuru"></object>
   </cell>
   <cell X="35" Y="11">
     <object Name="DirtRoad"></object>
@@ -2322,7 +2325,7 @@
   </cell>
   <cell X="11" Y="12">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Hunter 2"></object>
+    <object Name="Snapjaw Hunter Urfurufuru"></object>
   </cell>
   <cell X="12" Y="12">
     <object Name="DirtRoad"></object>
@@ -2387,7 +2390,7 @@
   </cell>
   <cell X="32" Y="12">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Brute 2"></object>
+    <object Name="Snapjaw Brute Urfurufuru"></object>
   </cell>
   <cell X="33" Y="12">
     <object Name="DirtRoad"></object>
@@ -2405,7 +2408,7 @@
   <cell X="37" Y="12">
     <object Name="DirtRoad"></object>
     <object Name="Floor Cushion"></object>
-    <object Name="Snapjaw Scavenger 2"></object>
+    <object Name="Snapjaw Scavenger Urfurufuru"></object>
   </cell>
   <cell X="38" Y="12">
     <object Name="DirtRoad"></object>
@@ -2422,7 +2425,7 @@
   <cell X="42" Y="12">
     <object Name="DirtRoad"></object>
     <object Name="Floor Cushion"></object>
-    <object Name="Snapjaw Scavenger 2"></object>
+    <object Name="Snapjaw Scavenger Urfurufuru"></object>
   </cell>
   <cell X="43" Y="12">
     <object Name="DirtRoad"></object>
@@ -2501,7 +2504,7 @@
   </cell>
   <cell X="68" Y="12">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Hunter 2"></object>
+    <object Name="Snapjaw Hunter Urfurufuru"></object>
   </cell>
   <cell X="69" Y="12">
     <object Name="WoodFence"></object>
@@ -2789,7 +2792,7 @@
   <cell X="28" Y="14">
     <object Name="DirtRoad"></object>
     <object Name="BaseChair"></object>
-    <object Name="Snapjaw Hero 1"></object>
+    <object Name="Snapjaw Hero Urfurufuru"></object>
   </cell>
   <cell X="29" Y="14">
     <object Name="DirtRoad"></object>
@@ -2819,7 +2822,7 @@
   <cell X="37" Y="14">
     <object Name="DirtRoad"></object>
     <object Name="Floor Cushion"></object>
-    <object Name="Snapjaw Scavenger 2"></object>
+    <object Name="Snapjaw Scavenger Urfurufuru"></object>
   </cell>
   <cell X="38" Y="14">
     <object Name="DirtRoad"></object>
@@ -2836,7 +2839,7 @@
   <cell X="42" Y="14">
     <object Name="DirtRoad"></object>
     <object Name="Floor Cushion"></object>
-    <object Name="Snapjaw Scavenger 2"></object>
+    <object Name="Snapjaw Scavenger Urfurufuru"></object>
   </cell>
   <cell X="43" Y="14">
     <object Name="DirtRoad"></object>
@@ -3062,7 +3065,7 @@
   <cell X="48" Y="15">
     <object Name="DirtRoad"></object>
     <object Name="BaseChair"></object>
-    <object Name="Snapjaw Hero 1"></object>
+    <object Name="Snapjaw Hero Urfurufuru"></object>
   </cell>
   <cell X="49" Y="15">
     <object Name="DirtRoad"></object>
@@ -3179,7 +3182,7 @@
   </cell>
   <cell X="19" Y="16">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Warrior 2"></object>
+    <object Name="Snapjaw Warrior Urfurufuru"></object>
   </cell>
   <cell X="20" Y="16">
     <object Name="DirtRoad"></object>
@@ -3189,7 +3192,7 @@
   </cell>
   <cell X="22" Y="16">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Warrior 2"></object>
+    <object Name="Snapjaw Warrior Urfurufuru"></object>
   </cell>
   <cell X="23" Y="16">
     <object Name="DirtRoad"></object>
@@ -3222,7 +3225,7 @@
   <cell X="31" Y="16">
     <object Name="DirtRoad"></object>
     <object Name="BaseChair"></object>
-    <object Name="Snapjaw Hero 1"></object>
+    <object Name="Snapjaw Hero Urfurufuru"></object>
   </cell>
   <cell X="32" Y="16">
     <object Name="DirtRoad"></object>
@@ -3243,7 +3246,7 @@
   <cell X="37" Y="16">
     <object Name="DirtRoad"></object>
     <object Name="Floor Cushion"></object>
-    <object Name="Snapjaw Scavenger 2"></object>
+    <object Name="Snapjaw Scavenger Urfurufuru"></object>
   </cell>
   <cell X="38" Y="16">
     <object Name="DirtRoad"></object>
@@ -3260,7 +3263,7 @@
   <cell X="42" Y="16">
     <object Name="DirtRoad"></object>
     <object Name="Floor Cushion"></object>
-    <object Name="Snapjaw Scavenger 2"></object>
+    <object Name="Snapjaw Scavenger Urfurufuru"></object>
   </cell>
   <cell X="43" Y="16">
     <object Name="DirtRoad"></object>
@@ -3313,7 +3316,7 @@
   </cell>
   <cell X="57" Y="16">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Warrior 2"></object>
+    <object Name="Snapjaw Warrior Urfurufuru"></object>
   </cell>
   <cell X="58" Y="16">
     <object Name="DirtRoad"></object>
@@ -3323,7 +3326,7 @@
   </cell>
   <cell X="60" Y="16">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Warrior 2"></object>
+    <object Name="Snapjaw Warrior Urfurufuru"></object>
   </cell>
   <cell X="61" Y="16">
     <object Name="DirtRoad"></object>
@@ -3863,14 +3866,14 @@
   </cell>
   <cell X="35" Y="19">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Howler"></object>
+    <object Name="Snapjaw Howler Urfurufuru"></object>
   </cell>
   <cell X="36" Y="19">
     <object Name="DirtRoad"></object>
   </cell>
   <cell X="37" Y="19">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Warlord 2"></object>
+    <object Name="Snapjaw Warlord Urfurufuru"></object>
   </cell>
   <cell X="38" Y="19">
     <object Name="DirtRoad"></object>
@@ -3886,14 +3889,14 @@
   </cell>
   <cell X="42" Y="19">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Warlord 2"></object>
+    <object Name="Snapjaw Warlord Urfurufuru"></object>
   </cell>
   <cell X="43" Y="19">
     <object Name="DirtRoad"></object>
   </cell>
   <cell X="44" Y="19">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Howler"></object>
+    <object Name="Snapjaw Howler Urfurufuru"></object>
   </cell>
   <cell X="45" Y="19">
     <object Name="DirtRoad"></object>
@@ -3996,7 +3999,7 @@
   </cell>
   <cell X="11" Y="20">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Shotgunner 2"></object>
+    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
   </cell>
   <cell X="12" Y="20">
     <object Name="DirtRoad"></object>
@@ -4169,7 +4172,7 @@
   </cell>
   <cell X="68" Y="20">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Shotgunner 2"></object>
+    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
   </cell>
   <cell X="69" Y="20">
     <object Name="WoodFence"></object>
@@ -4202,7 +4205,7 @@
   </cell>
   <cell X="12" Y="21">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Shotgunner 2"></object>
+    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
   </cell>
   <cell X="13" Y="21">
     <object Name="DirtRoad"></object>
@@ -4239,7 +4242,7 @@
   </cell>
   <cell X="24" Y="21">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Hunter 2"></object>
+    <object Name="Snapjaw Hunter Urfurufuru"></object>
   </cell>
   <cell X="25" Y="21">
     <object Name="DirtRoad"></object>
@@ -4270,14 +4273,14 @@
   </cell>
   <cell X="34" Y="21">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Shotgunner 2"></object>
+    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
   </cell>
   <cell X="35" Y="21">
     <object Name="DirtRoad"></object>
   </cell>
   <cell X="36" Y="21">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Shotgunner 2"></object>
+    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
   </cell>
   <cell X="37" Y="21">
     <object Name="DirtRoad"></object>
@@ -4299,14 +4302,14 @@
   </cell>
   <cell X="43" Y="21">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Shotgunner 2"></object>
+    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
   </cell>
   <cell X="44" Y="21">
     <object Name="DirtRoad"></object>
   </cell>
   <cell X="45" Y="21">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Shotgunner 2"></object>
+    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
   </cell>
   <cell X="46" Y="21">
     <object Name="DirtRoad"></object>
@@ -4337,7 +4340,7 @@
   </cell>
   <cell X="55" Y="21">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Hunter 2"></object>
+    <object Name="Snapjaw Hunter Urfurufuru"></object>
   </cell>
   <cell X="56" Y="21">
     <object Name="DirtRoad"></object>
@@ -4375,7 +4378,7 @@
   <cell X="67" Y="21">
     <object Name="DirtRoad"></object>
     <object Name="Garbage"></object>
-    <object Name="Snapjaw Shotgunner 2"></object>
+    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
   </cell>
   <cell X="68" Y="21">
     <object Name="DirtRoad"></object>

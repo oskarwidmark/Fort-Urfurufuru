@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factions>
+	<faction Name="FortUrfurufuru_UrfurufuruFaction" DisplayName="followers of Urfurufuru"
+		Old="false"
+		FormatWithArticle="false" InitialPlayerReputation="-200"
+		PositiveSound="Sounds/Reputation/sfx_reputation_village_positive"
+		NegativeSound="Sounds/Reputation/sfx_reputation_village_negative"
+		EmblemTile="FortUrfurufuru/Urfurufuru_sm.png" EmblemTileColor="W" EmblemDetailColor="R">
+		<feeling About="Snapjaws" Value="200" />
+		<feeling About="*" Value="-200" />
+		<factionworshipattitudes Default="0" ApplyDefaultAfterSpecificFeelings="true">
+			<factionworshipattitude Name="Templar" Attitude="100" />
+			<factionworshipattitude Name="Seekers" Attitude="100" />
+			<factionworshipattitude Name="Mechanimists" Attitude="-400" />
+			<factionworshipattitude Name="Barathrumites" Attitude="-400" />
+			<factionworshipattitude Name="Wardens" Attitude="-400" />
+		</factionworshipattitudes>
+		<interests>
+			<interest Tags="cybernetics" WillBuy="true" WillSell="false" />
+			<interest Tags="stopsvalinn" WillBuy="true" WillSell="false" />
+		</interests>
+		<property Name="EndVisibility" Value="false" />
+	</faction>
+</factions>
