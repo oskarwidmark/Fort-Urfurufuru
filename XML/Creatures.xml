@@ -8,6 +8,7 @@
 		<part Name="GivesRep" />
 		<part Name="Brain" Wanders="false" Factions="FortUrfurufuru_UrfurufuruFaction-100" />
 		<part Name="Corpse" CorpseChance="100" CorpseBlueprint="Snapjaw Corpse" />
+		<part Name="ConversationScript" ConversationID="Urfurufuru" />
 
 		<mutation Name="DarkVision" Level="1" />
 		<mutation Name="Regeneration" Level="5" />

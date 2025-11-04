@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <conversations>
     <conversation ID="Snapjaw Urfurufuru">
         <node ID="Start">
@@ -28,5 +29,128 @@
             </text>
             <choice GotoID="End">...live and drink.</choice>
         </node>
+    </conversation>
+
+    <!-- Urfurufuru -->
+    <conversation ID="Urfurufuru">
+        <node ID="Urfurufuru_BaseResponses">
+            <choice ID="Urfurufuru_Work" Target="Urfurufuru_Work">
+                <text>I'm looking for work.</text>
+            </choice>
+            <choice ID="End" Target="End">
+                <text>Live and drink...</text>
+            </choice>
+        </node>
+        <node ID="Urfurufuru_Work">
+            <text>
+                Work? You? Ahahahaha!
+
+                My minions do all I ask them. What more value could you provide to ME?
+            </text>
+            <choice ID="Urfurufuru_Strength1" Target="Urfurufuru_Strength1">
+                <text>I am strong!</text>
+            </choice>
+            <choice ID="Urfurufuru_Agility1" Target="Urfurufuru_Agility1">
+                <text> I am nimble!</text>
+            </choice>
+            <choice ID="Urfurufuru_Toughness1" Target="Urfurufuru_Toughness1">
+                <text>I am tough.</text>
+            </choice>
+            <choice ID="Urfurufuru_Intelligence1" Target="Urfurufuru_Intelligence1">
+                <text>I am clever.</text>
+            </choice>
+            <choice ID="Urfurufuru_Willpower1" Target="Urfurufuru_Willpower1">
+                <text>I am strong of mind.</text>
+            </choice>
+            <choice ID="Urfurufuru_Ego1" Target="Urfurufuru_Ego1">
+                <text>
+                    Surely you see that an alliance between us two extraordinary beings in this lowly world only can be of utmost value?
+                </text>
+            </choice>
+            <choice ID="End" Target="End">
+                <text>...Nevermind.</text>
+            </choice>
+        </node>
+        <node ID="Urfurufuru_Strength1">
+            <text>
+                Strong? STRONG? Ohohoho! Show me! Strike me as hard as you can!
+            </text>
+            <choice ID="End" Target="End">
+                <text>...Nevermind.</text>
+            </choice>
+        </node>
+        <node ID="Urfurufuru_Agility1">
+            <text>
+                Nimble eh? Hmmm... AH! Dodge THIS! {{emote|*Urfurufuru draws his phase cannon*}}
+            </text>
+            <choice ID="End" Target="End">
+                <text>...</text>
+            </choice>
+        </node>
+        <node ID="Urfurufuru_Toughness1">
+            <text>
+                Tough you say? Can you withstand the blast of this phase cannon?! {{emote|*Urfurufuru draws his phase cannon*}}
+            </text>
+            <choice ID="End" Target="End">
+                <text>...</text>
+            </choice>
+        </node>
+        <node ID="Urfurufuru_Intelligence1">
+            <text>
+                Cleverrrrrrr... Urfurufuru is clever! How about a riddle? What is the point of a black mote?
+            </text>
+            <choice ID="End" Target="End">
+                <text>Zero-point!</text>
+            </choice>
+            <choice ID="End" Target="End">
+                <text>...Nevermind.</text>
+            </choice>
+        </node>
+        <node ID="Urfurufuru_Willpower1">
+            <text>
+                A mind of steel then. ... Hrnnn... We shall settle this the snapjaw way. A stare-down!
+            </text>
+            <choice ID="End" Target="End">
+                <text>*stare deeply into his crimson eyes*</text>
+            </choice>
+        </node>
+        <node ID="Urfurufuru_Ego1">
+            <text>
+                ... Hrmmm... Yes. YES! We are two of the same! An alliance could prove fruitful indeed. Let's get down to business...
+            </text>
+            <choice ID="End" Target="End">
+                <text>...</text>
+            </choice>
+        </node>
+
+        <start ID="Urfurufuru_Start1" IfNotHaveState="MetUrfurufuru" AllowEscape="false">
+            <text>
+                ehehehehehe.
+            </text>
+            <choice ID="Urfurufuru_Start2" Target="Urfurufuru_Start2">
+                <text>...</text>
+            </choice>
+        </start>
+        <node ID="Urfurufuru_Start2" AllowEscape="false">
+            <text>EHEHEHEHEHEHEHE!</text>
+            <choice ID="Urfurufuru_Welcome" Target="Urfurufuru_Welcome"
+                SetBooleanState="MetUrfurufuru,true">
+                <text>...</text>
+            </choice>
+        </node>
+        <node ID="Urfurufuru_Welcome" Inherits="Urfurufuru_BaseResponses">
+            <text>
+                heh. Welcome! Welcome to Fort Urfurufuru! Led by ME!
+
+                What do you want?
+            </text>
+        </node>
+        <start ID="Urfurufuru_Greeting" Inherits="Urfurufuru_BaseResponses">
+            <text>
+                heh.
+
+                What do you want?
+            </text>
+        </start>
     </conversation>
 </conversations>
