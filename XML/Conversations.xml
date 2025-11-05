@@ -62,7 +62,7 @@
             <choice ID="Urfurufuru_Willpower1" Target="Urfurufuru_Willpower1">
                 <text>I am strong of mind.</text>
             </choice>
-            <choice ID="Urfurufuru_Ego1" Target="Urfurufuru_Ego1">
+            <choice ID="Urfurufuru_Ego1" Target="Urfurufuru_Ego1" FortUrfurufuru_IfCharismatic="true">
                 <text>
                     Surely you see that an alliance between us two extraordinary beings in this lowly world only can be of utmost value?
                 </text>
@@ -81,10 +81,11 @@
         </node>
         <node ID="Urfurufuru_Agility1">
             <text>
-                Nimble eh? Hmmm... AH! Dodge THIS! {{emote|*Urfurufuru draws his phase cannon*}}
+                Nimble eh? Hmmm... HA! Dodge THIS! {{emote|*Urfurufuru draws his phase cannon*}}
             </text>
             <choice ID="End" Target="End">
                 <text>...</text>
+                <part Name="FortUrfurufuru_GetShotAt" />
             </choice>
         </node>
         <node ID="Urfurufuru_Toughness1">
@@ -93,13 +94,14 @@
             </text>
             <choice ID="End" Target="End">
                 <text>...</text>
+                <part Name="FortUrfurufuru_GetShot" />
             </choice>
         </node>
         <node ID="Urfurufuru_Intelligence1">
             <text>
                 Cleverrrrrrr... Urfurufuru is clever! How about a riddle? What is the point of a black mote?
             </text>
-            <choice ID="End" Target="End">
+            <choice ID="End" Target="End" FortUrfurufuru_IfClever="true">
                 <text>Zero-point!</text>
             </choice>
             <choice ID="End" Target="End">
@@ -110,13 +112,53 @@
             <text>
                 A mind of steel then. ... Hrnnn... We shall settle this the snapjaw way. A stare-down!
             </text>
-            <choice ID="End" Target="End">
+            <choice ID="Urfurufuru_Willpower2" Target="Urfurufuru_Willpower2">
                 <text>*stare deeply into his crimson eyes*</text>
+            </choice>
+            <choice ID="End" Target="End">
+                <text>...Nevermind.</text>
             </choice>
         </node>
         <node ID="Urfurufuru_Ego1">
             <text>
                 ... Hrmmm... Yes. YES! We are two of the same! An alliance could prove fruitful indeed. Let's get down to business...
+            </text>
+            <choice ID="End" Target="End">
+                <text>...</text>
+            </choice>
+        </node>
+
+        <node ID="Urfurufuru_Willpower2">
+            <text>
+                {{emote|*You feel the intense glare of Urfurufuru lay your soul bare*}}
+            </text>
+            <choice ID="Urfurufuru_Willpower3" Target="Urfurufuru_Willpower3" FortUrfurufuru_IfStrongOfMind="true">
+                <text>*maintain your composure*</text>
+            </choice>
+            <choice ID="End" Target="End" FortUrfurufuru_IfNotStrongOfMind="true">
+                <text>*shy away from his gaze*</text>
+                <part Name="FortUrfurufuru_SetTerrified" />
+            </choice>
+        </node>
+        <node ID="Urfurufuru_Willpower3">
+            <text>
+                ...
+            </text>
+            <choice ID="Urfurufuru_Willpower4" Target="Urfurufuru_Willpower4">
+                <text>...</text>
+            </choice>
+        </node>
+        <node ID="Urfurufuru_Willpower4">
+            <text>
+                ...hrngrrr...
+            </text>
+            <choice ID="Urfurufuru_Willpower5" Target="Urfurufuru_Willpower5">
+                <text>...</text>
+            </choice>
+        </node>
+        <node ID="Urfurufuru_Willpower5">
+            <text>
+                {{emote|*Urfurufuru averts his eyes*}} GAH!
             </text>
             <choice ID="End" Target="End">
                 <text>...</text>

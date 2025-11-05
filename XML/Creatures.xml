@@ -23,6 +23,8 @@
 		<skill Name="HeavyWeapons" />
 		<skill Name="HeavyWeapons_Tank" />
 		<skill Name="HeavyWeapons_Sweep" />
+		<skill Name="Persuasion_MenacingStare" />
+		<skill Name="Persuasion_Berate" />
 
 		<tag Name="ExcludeFromDynamicEncounters" Value="*noinherit" />
 		<tag Name="Gender" Value="male" />
