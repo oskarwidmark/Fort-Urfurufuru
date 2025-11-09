@@ -2,7 +2,7 @@
 <factions>
 	<faction Name="FortUrfurufuru_UrfurufuruFaction" DisplayName="followers of Urfurufuru"
 		Old="false"
-		FormatWithArticle="false" InitialPlayerReputation="-200"
+		FormatWithArticle="false" InitialPlayerReputation="400"
 		PositiveSound="Sounds/Reputation/sfx_reputation_village_positive"
 		NegativeSound="Sounds/Reputation/sfx_reputation_village_negative"
 		EmblemTile="FortUrfurufuru/Urfurufuru_sm.png" EmblemTileColor="W" EmblemDetailColor="R">

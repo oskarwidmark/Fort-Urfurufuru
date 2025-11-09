@@ -1,23 +1,12 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using XRL.Language;
-using XRL.UI;
-using XRL.World.Tinkering;
-
 namespace XRL.World.Conversations.Parts
 {
-    public class FortUrfurufuru_SetTerrified : IConversationPart
+    public static class Helpers
     {
-        public override bool WantEvent(int ID, int Propagation)
-        {
-            return base.WantEvent(ID, Propagation) || ID == EnterElementEvent.ID;
-        }
+        public static int PHASE_CANNON_DAMAGE = 10;
 
-        public override bool HandleEvent(EnterElementEvent E)
+        public static void TakePhaseCannonDamage()
         {
-            The.Player.ApplyEffect(new Effects.Terrified(10, GameObject.FindByID("FortUrfurufuru_Urfurufuru")));
-            return base.HandleEvent(E);
+            The.Player.TakeDamage(PHASE_CANNON_DAMAGE, null, null, "You couldn't withstand the blast of Urfurufuru's phase cannon!", null, null, GameObject.FindByID("FortUrfurufuru_Urfurufuru"), null, null, null);
         }
     }
 
@@ -30,8 +19,12 @@ namespace XRL.World.Conversations.Parts
 
         public override bool HandleEvent(EnterElementEvent E)
         {
+            // Combat.FireMissileWeapon()?
             The.Player.PlayWorldOrUISound("Sounds/Missile/Fires/Rifles/sfx_missile_phaseCannon_fire");
-            The.Player.TakeDamage(10, null, null, "You couldn't withstand the blast of Urfurufuru's phase cannon!", null, null, GameObject.FindByID("FortUrfurufuru_Urfurufuru"), null, null, null);
+            Helpers.TakePhaseCannonDamage();
+            The.Player.SetIntProperty("FortUrfurufuru_ToughnessTestSuccess", 1);
+            The.Player.SetIntProperty("FortUrfurufuru_TestSuccess", 1);
+
             return base.HandleEvent(E);
         }
     }
@@ -46,6 +39,132 @@ namespace XRL.World.Conversations.Parts
         public override bool HandleEvent(EnterElementEvent E)
         {
             // TODO: find out how to fire phase cannon
+            // Combat.FireMissileWeapon()?
+            The.Player.PlayWorldOrUISound("Sounds/Missile/Fires/Rifles/sfx_missile_phaseCannon_fire");
+            // Does not work, where is DV?
+            if (The.Player.Statistics["DV"].Value < 15)
+            {
+                Helpers.TakePhaseCannonDamage();
+                The.Player.SetIntProperty("FortUrfurufuru_ToughnessTestSuccessAccidental", 1);
+                The.Player.SetIntProperty("FortUrfurufuru_TestSuccess", 1);
+            }
+            else
+            {
+                The.Player.SetIntProperty("FortUrfurufuru_AgilityTestSuccess", 1);
+                The.Player.SetIntProperty("FortUrfurufuru_TestSuccess", 1);
+            }
+
+            return base.HandleEvent(E);
+        }
+    }
+
+    public class FortUrfurufuru_AttackUrfurufuru : IConversationPart
+    {
+        public override bool WantEvent(int ID, int Propagation)
+        {
+            return base.WantEvent(ID, Propagation) || ID == EnterElementEvent.ID;
+        }
+
+        public override bool HandleEvent(EnterElementEvent E)
+        {
+            The.Player.PerformMeleeAttack(The.Speaker);
+            The.Speaker.Brain.Forgive(The.Player);
+            foreach (var o in The.ActiveZone.GetObjectsThatInheritFrom("Snapjaw"))
+            {
+                if (The.Speaker.Health() > 0)
+                {
+                    // TODO: only forgive for snapjaws that were non-hostile before
+                    o.Brain.Forgive(The.Player);
+                }
+            }
+
+            // TODO: compare with previous health?
+            if (The.Speaker.Health() <= 0.75)
+            {
+                The.Player.SetIntProperty("FortUrfurufuru_TestSuccess", 1);
+                The.Player.SetIntProperty("FortUrfurufuru_StrengthTestSuccess", 1);
+            }
+            else if (The.Speaker.Health() < 1)
+            {
+                The.Player.SetIntProperty("FortUrfurufuru_StrengthTestFailureWeak", 1);
+                The.Player.SetIntProperty("FortUrfurufuru_TestFailure", 1);
+            }
+            else
+            {
+                The.Player.SetIntProperty("FortUrfurufuru_StrengthTestFailureMiss", 1);
+                The.Player.SetIntProperty("FortUrfurufuru_TestFailure", 1);
+            }
+
+            return base.HandleEvent(E);
+        }
+    }
+
+    public class FortUrfurufuru_TestFailure : IConversationPart
+    {
+        public override bool WantEvent(int ID, int Propagation)
+        {
+            return base.WantEvent(ID, Propagation) || ID == EnterElementEvent.ID;
+        }
+
+        public override bool HandleEvent(EnterElementEvent E)
+        {
+            The.Game.PlayerReputation.Modify("FortUrfurufuru_UrfurufuruFaction", -100);
+            The.Player.SetIntProperty("FortUrfurufuru_StrengthTestFailureWeak", 0, true);
+            The.Player.SetIntProperty("FortUrfurufuru_StrengthTestFailureMiss", 0, true);
+            The.Player.SetIntProperty("FortUrfurufuru_WillpowerTestFailure", 0, true);
+            The.Player.SetIntProperty("FortUrfurufuru_TestFailure", 0, true);
+            return base.HandleEvent(E);
+        }
+    }
+
+    public class FortUrfurufuru_StareDownFailure : IConversationPart
+    {
+        public override bool WantEvent(int ID, int Propagation)
+        {
+            return base.WantEvent(ID, Propagation) || ID == EnterElementEvent.ID;
+        }
+
+        public override bool HandleEvent(EnterElementEvent E)
+        {
+            The.Player.SetIntProperty("FortUrfurufuru_WillpowerTestFailure", 1);
+            The.Player.SetIntProperty("FortUrfurufuru_TestFailure", 1);
+            The.Player.ForceApplyEffect(new Effects.Terrified(5, The.Speaker));
+            return base.HandleEvent(E);
+        }
+    }
+
+    public class FortUrfurufuru_StareDownSuccess : IConversationPart
+    {
+        public override bool WantEvent(int ID, int Propagation)
+        {
+            return base.WantEvent(ID, Propagation) || ID == EnterElementEvent.ID;
+        }
+
+        public override bool HandleEvent(EnterElementEvent E)
+        {
+            The.Player.SetIntProperty("FortUrfurufuru_WillpowerTestSuccess", 1);
+            The.Player.SetIntProperty("FortUrfurufuru_TestSuccess", 1);
+            The.Speaker.ForceApplyEffect(new Effects.Shamed(10));
+            return base.HandleEvent(E);
+        }
+    }
+
+    public class FortUrfurufuru_TestSuccess : IConversationPart
+    {
+        public override bool WantEvent(int ID, int Propagation)
+        {
+            return base.WantEvent(ID, Propagation) || ID == EnterElementEvent.ID;
+        }
+
+        public override bool HandleEvent(EnterElementEvent E)
+        {
+            The.Player.SetIntProperty("FortUrfurufuru_TestSuccess", 0, true);
+            The.Player.SetIntProperty("FortUrfurufuru_StrengthTestSuccess", 0, true);
+            The.Player.SetIntProperty("FortUrfurufuru_ToughnessTestSuccess", 0, true);
+            The.Player.SetIntProperty("FortUrfurufuru_ToughnessTestSuccessAccidental", 0, true);
+            The.Player.SetIntProperty("FortUrfurufuru_AgilityTestSuccess", 0, true);
+            The.Player.SetIntProperty("FortUrfurufuru_WillpowerTestSuccess", 0, true);
+            The.Player.SetIntProperty("FortUrfurufuru_TestComplete", 1);
             return base.HandleEvent(E);
         }
     }
