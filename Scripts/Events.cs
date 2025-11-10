@@ -1,3 +1,5 @@
+using XRL.World.Parts;
+
 namespace XRL.World.Conversations.Parts
 {
     public static class Helpers
@@ -19,11 +21,18 @@ namespace XRL.World.Conversations.Parts
 
         public override bool HandleEvent(EnterElementEvent E)
         {
-            // Combat.FireMissileWeapon()?
-            The.Player.PlayWorldOrUISound("Sounds/Missile/Fires/Rifles/sfx_missile_phaseCannon_fire");
-            Helpers.TakePhaseCannonDamage();
-            The.Player.SetIntProperty("FortUrfurufuru_ToughnessTestSuccess", 1);
-            The.Player.SetIntProperty("FortUrfurufuru_TestSuccess", 1);
+            var oldPlayerHealth = The.Player.Health();
+            Combat.FireMissileWeapon(The.Speaker, null, The.Player.GetCurrentCell());
+            if (The.Player.Health() < oldPlayerHealth)
+            {
+                The.Player.SetIntProperty("FortUrfurufuru_ToughnessTestDodge", 0, true);
+                The.Player.SetIntProperty("FortUrfurufuru_ToughnessTestSuccess", 1);
+                The.Player.SetIntProperty("FortUrfurufuru_TestSuccess", 1);
+            }
+            else
+            {
+                The.Player.SetIntProperty("FortUrfurufuru_ToughnessTestDodge", 1);
+            }
 
             return base.HandleEvent(E);
         }
@@ -38,13 +47,10 @@ namespace XRL.World.Conversations.Parts
 
         public override bool HandleEvent(EnterElementEvent E)
         {
-            // TODO: find out how to fire phase cannon
-            // Combat.FireMissileWeapon()?
-            The.Player.PlayWorldOrUISound("Sounds/Missile/Fires/Rifles/sfx_missile_phaseCannon_fire");
-            // Does not work, where is DV?
-            if (The.Player.Statistics["DV"].Value < 15)
+            var playerHealth = The.Player.Health();
+            Combat.FireMissileWeapon(The.Speaker, null, The.Player.GetCurrentCell());
+            if (The.Player.Health() < playerHealth)
             {
-                Helpers.TakePhaseCannonDamage();
                 The.Player.SetIntProperty("FortUrfurufuru_ToughnessTestSuccessAccidental", 1);
                 The.Player.SetIntProperty("FortUrfurufuru_TestSuccess", 1);
             }
@@ -67,6 +73,7 @@ namespace XRL.World.Conversations.Parts
 
         public override bool HandleEvent(EnterElementEvent E)
         {
+            var oldSpeakerHealth = The.Speaker.Health();
             The.Player.PerformMeleeAttack(The.Speaker);
             The.Speaker.Brain.Forgive(The.Player);
             foreach (var o in The.ActiveZone.GetObjectsThatInheritFrom("Snapjaw"))
@@ -78,13 +85,13 @@ namespace XRL.World.Conversations.Parts
                 }
             }
 
-            // TODO: compare with previous health?
-            if (The.Speaker.Health() <= 0.75)
+            var healthDiff = oldSpeakerHealth - The.Speaker.Health();
+            if (healthDiff >= 0.25)
             {
                 The.Player.SetIntProperty("FortUrfurufuru_TestSuccess", 1);
                 The.Player.SetIntProperty("FortUrfurufuru_StrengthTestSuccess", 1);
             }
-            else if (The.Speaker.Health() < 1)
+            else if (healthDiff > 0)
             {
                 The.Player.SetIntProperty("FortUrfurufuru_StrengthTestFailureWeak", 1);
                 The.Player.SetIntProperty("FortUrfurufuru_TestFailure", 1);
@@ -112,6 +119,7 @@ namespace XRL.World.Conversations.Parts
             The.Player.SetIntProperty("FortUrfurufuru_StrengthTestFailureWeak", 0, true);
             The.Player.SetIntProperty("FortUrfurufuru_StrengthTestFailureMiss", 0, true);
             The.Player.SetIntProperty("FortUrfurufuru_WillpowerTestFailure", 0, true);
+            The.Player.SetIntProperty("FortUrfurufuru_ToughnessTestDodge", 0, true);
             The.Player.SetIntProperty("FortUrfurufuru_TestFailure", 0, true);
             return base.HandleEvent(E);
         }
@@ -161,6 +169,7 @@ namespace XRL.World.Conversations.Parts
             The.Player.SetIntProperty("FortUrfurufuru_TestSuccess", 0, true);
             The.Player.SetIntProperty("FortUrfurufuru_StrengthTestSuccess", 0, true);
             The.Player.SetIntProperty("FortUrfurufuru_ToughnessTestSuccess", 0, true);
+            The.Player.SetIntProperty("FortUrfurufuru_ToughnessTestDodge", 0, true);
             The.Player.SetIntProperty("FortUrfurufuru_ToughnessTestSuccessAccidental", 0, true);
             The.Player.SetIntProperty("FortUrfurufuru_AgilityTestSuccess", 0, true);
             The.Player.SetIntProperty("FortUrfurufuru_WillpowerTestSuccess", 0, true);
