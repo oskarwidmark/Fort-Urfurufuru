@@ -2,16 +2,6 @@ using XRL.World.Parts;
 
 namespace XRL.World.Conversations.Parts
 {
-    public static class Helpers
-    {
-        public static int PHASE_CANNON_DAMAGE = 10;
-
-        public static void TakePhaseCannonDamage()
-        {
-            The.Player.TakeDamage(PHASE_CANNON_DAMAGE, null, null, "You couldn't withstand the blast of Urfurufuru's phase cannon!", null, null, GameObject.FindByID("FortUrfurufuru_Urfurufuru"), null, null, null);
-        }
-    }
-
     public class FortUrfurufuru_GetShot : IConversationPart
     {
         public override bool WantEvent(int ID, int Propagation)

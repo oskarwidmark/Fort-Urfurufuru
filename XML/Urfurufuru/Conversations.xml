@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<conversations>
+    <conversation ID="Urfurufuru">
+        <node ID="Urfurufuru_BaseResponses">
+            <choice ID="End" Target="End">
+                <text>Live and drink...</text>
+            </choice>
+        </node>
+        <start ID="Urfurufuru_Start1" IfNotHaveState="MetUrfurufuru" AllowEscape="false">
+            <text>
+                ehehehehehe.
+            </text>
+            <choice ID="Urfurufuru_Start2" Target="Urfurufuru_Start2">
+                <text>...</text>
+            </choice>
+        </start>
+        <node ID="Urfurufuru_Start2" AllowEscape="false">
+            <text>EHEHEHEHEHEHEHE!</text>
+            <choice ID="Urfurufuru_Welcome" Target="Urfurufuru_Welcome"
+                SetBooleanState="MetUrfurufuru,true">
+                <text>...</text>
+            </choice>
+        </node>
+        <node ID="Urfurufuru_Welcome" Inherits="Urfurufuru_BaseResponses">
+            <text>
+                heh. Welcome! Welcome to Fort Urfurufuru! Led by ME!
+
+                What do you want?
+            </text>
+        </node>
+        <start ID="Urfurufuru_Greeting" Inherits="Urfurufuru_BaseResponses" FortUrfurufuru_HasNotAttemptedTestRecently="true">
+            <text>
+                heh.
+
+                What do you want?
+            </text>
+        </start>
+    </conversation>
+</conversations>
