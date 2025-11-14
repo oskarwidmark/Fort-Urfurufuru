@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects>
+    <object Name="Floor Cushion Urfurufuru" Inherits="Floor Cushion">
+        <part Name="Render" DisplayName="floor cushion" ColorString="&amp;w" DetailColor="Y" RenderString="009" Tile="Items/sw_floor_cushion.png" />
+    </object>
+</objects>

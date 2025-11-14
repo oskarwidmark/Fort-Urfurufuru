@@ -28,12 +28,20 @@
                 What do you want?
             </text>
         </node>
-        <start ID="Urfurufuru_Greeting" Inherits="Urfurufuru_BaseResponses" FortUrfurufuru_HasNotAttemptedTestRecently="true">
+        <start ID="Urfurufuru_Greeting" Inherits="Urfurufuru_BaseResponses" FortUrfurufuru_ShouldUseBaseGreeting="true" FortUrfurufuru_IsSpeakerNotConsulting="true">
             <text>
                 heh.
 
                 What do you want?
             </text>
+        </start>
+        <start ID="Urfurufuru_Consulting" FortUrfurufuru_IsSpeakerConsulting="true" AllowEscape="false">
+            <text>
+                *whispers*~
+                *growls*~
+                Go away now.
+            </text>
+            <choice GotoID="End">...</choice>
         </start>
     </conversation>
 </conversations>

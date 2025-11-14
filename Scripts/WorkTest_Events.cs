@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+using XRL.World.AI.GoalHandlers;
 using XRL.World.Parts;
 
 namespace XRL.World.Conversations.Parts
@@ -164,6 +166,30 @@ namespace XRL.World.Conversations.Parts
             The.Player.SetIntProperty("FortUrfurufuru_AgilityTestSuccess", 0, true);
             The.Player.SetIntProperty("FortUrfurufuru_WillpowerTestSuccess", 0, true);
             The.Player.SetIntProperty("FortUrfurufuru_TestComplete", 1);
+            return base.HandleEvent(E);
+        }
+    }
+
+    public class FortUrfurufuru_Consultation : IConversationPart
+    {
+        public override bool WantEvent(int ID, int Propagation)
+        {
+            return base.WantEvent(ID, Propagation) || ID == EnterElementEvent.ID;
+        }
+
+        public override bool HandleEvent(EnterElementEvent E)
+        {
+            var warlords = The.ActiveZone.GetObjects("Snapjaw Hero Urfurufuru");
+            var cushions = new Stack<GameObject>(The.ActiveZone.GetObjects("Floor Cushion Urfurufuru"));
+
+            var speakerCushionCell = cushions.Pop().GetCurrentCell();
+            The.Speaker.Brain.PushGoal(new MoveToAndConsult(speakerCushionCell, 100));
+            foreach (var o in warlords)
+            {
+                var cushionCell = cushions.Pop().GetCurrentCell();
+                o.Brain.Goals.Clear();
+                o.Brain.PushGoal(new MoveToAndConsult(cushionCell, 100));
+            }
             return base.HandleEvent(E);
         }
     }

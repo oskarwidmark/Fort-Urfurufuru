@@ -1171,8 +1171,8 @@
     <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="29" Y="6">
+    <object Name="Bedroll"></object>
     <object Name="DirtRoad"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="30" Y="6">
     <object Name="DirtRoad"></object>
@@ -1622,25 +1622,32 @@
   </cell>
   <cell X="27" Y="8">
     <object Name="DirtRoad"></object>
-    <object Name="Hookah" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="28" Y="8">
     <object Name="DirtRoad"></object>
-    <object Name="BaseChair" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="Snapjaw Hero Urfurufuru"></object>
+    <object Name="Chair"></object>
   </cell>
   <cell X="29" Y="8">
     <object Name="DirtRoad"></object>
     <object Name="Table" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
+    <object Name="DirtRoad"></object>
+    <object Name="DirtRoad"></object>
+    <object Name="Chair"></object>
   </cell>
   <cell X="30" Y="8">
     <object Name="DirtRoad"></object>
   </cell>
   <cell X="31" Y="8">
     <object Name="DirtRoad"></object>
+    <object Name="DirtRoad"></object>
+    <object Name="Chair"></object>
+    <object Name="Snapjaw Hero Urfurufuru"></object>
   </cell>
   <cell X="32" Y="8">
+    <object Name="Table" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
     <object Name="DirtRoad"></object>
+    <object Name="DirtRoad"></object>
+    <object Name="Chair"></object>
   </cell>
   <cell X="33" Y="8">
     <object Name="DirtRoad"></object>
@@ -1859,6 +1866,7 @@
   </cell>
   <cell X="32" Y="9">
     <object Name="DirtRoad"></object>
+    <object Name="DirtRoad"></object>
   </cell>
   <cell X="33" Y="9">
     <object Name="DirtRoad"></object>
@@ -2072,19 +2080,28 @@
   </cell>
   <cell X="28" Y="10">
     <object Name="DirtRoad"></object>
+    <object Name="DirtRoad"></object>
+    <object Name="Chair"></object>
+    <object Name="Snapjaw Hero Urfurufuru"></object>
   </cell>
   <cell X="29" Y="10">
     <object Name="DirtRoad"></object>
+    <object Name="DirtRoad"></object>
+    <object Name="Table" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="30" Y="10">
     <object Name="DirtRoad"></object>
   </cell>
   <cell X="31" Y="10">
     <object Name="DirtRoad"></object>
+    <object Name="DirtRoad"></object>
+    <object Name="Chair"></object>
+    <object Name="Snapjaw Hero Urfurufuru"></object>
   </cell>
   <cell X="32" Y="10">
+    <object Name="Table" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Brute Urfurufuru"></object>
+    <object Name="DirtRoad"></object>
   </cell>
   <cell X="33" Y="10">
     <object Name="DirtRoad"></object>
@@ -2306,21 +2323,19 @@
   </cell>
   <cell X="30" Y="11">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Brute Urfurufuru"></object>
   </cell>
   <cell X="31" Y="11">
     <object Name="DirtRoad"></object>
   </cell>
   <cell X="32" Y="11">
     <object Name="DirtRoad"></object>
-    <object Name="Torchpost" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
+    <object Name="DirtRoad"></object>
   </cell>
   <cell X="33" Y="11">
     <object Name="DirtRoad"></object>
   </cell>
   <cell X="34" Y="11">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Brute Urfurufuru"></object>
   </cell>
   <cell X="35" Y="11">
     <object Name="DirtRoad"></object>
@@ -2529,7 +2544,6 @@
   </cell>
   <cell X="32" Y="12">
     <object Name="DirtRoad"></object>
-    <object Name="Snapjaw Brute Urfurufuru"></object>
   </cell>
   <cell X="33" Y="12">
     <object Name="DirtRoad"></object>
@@ -2562,9 +2576,9 @@
     <object Name="DirtRoad"></object>
   </cell>
   <cell X="42" Y="12">
+    <object Name="Snapjaw Scavenger Urfurufuru"></object>
     <object Name="DirtRoad"></object>
     <object Name="Floor Cushion" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="Snapjaw Scavenger Urfurufuru"></object>
   </cell>
   <cell X="43" Y="12">
     <object Name="DirtRoad"></object>
@@ -2731,20 +2745,31 @@
   </cell>
   <cell X="28" Y="13">
     <object Name="DirtRoad"></object>
+    <object Name="DirtRoad"></object>
+    <object Name="Chair"></object>
+    <object Name="Snapjaw Hero Urfurufuru"></object>
   </cell>
   <cell X="29" Y="13">
     <object Name="DirtRoad"></object>
+    <object Name="DirtRoad"></object>
+    <object Name="Table" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="30" Y="13">
     <object Name="DirtRoad"></object>
   </cell>
   <cell X="31" Y="13">
     <object Name="DirtRoad"></object>
+    <object Name="DirtRoad"></object>
+    <object Name="Chair"></object>
+    <object Name="Snapjaw Hero Urfurufuru"></object>
   </cell>
   <cell X="32" Y="13">
     <object Name="DirtRoad"></object>
+    <object Name="DirtRoad"></object>
+    <object Name="Table" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="33" Y="13">
+    <object Name="DirtRoad"></object>
     <object Name="DirtRoad"></object>
   </cell>
   <cell X="34" Y="13">
@@ -2790,12 +2815,15 @@
   </cell>
   <cell X="47" Y="13">
     <object Name="DirtRoad"></object>
+    <object Name="Floor Cushion Urfurufuru"></object>
   </cell>
   <cell X="48" Y="13">
     <object Name="DirtRoad"></object>
+    <object Name="Floor Cushion Urfurufuru"></object>
   </cell>
   <cell X="49" Y="13">
     <object Name="DirtRoad"></object>
+    <object Name="Floor Cushion Urfurufuru"></object>
   </cell>
   <cell X="50" Y="13">
     <object Name="DirtRoad"></object>
@@ -2939,16 +2967,12 @@
   </cell>
   <cell X="27" Y="14">
     <object Name="DirtRoad"></object>
-    <object Name="Hookah" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="28" Y="14">
     <object Name="DirtRoad"></object>
-    <object Name="BaseChair" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="Snapjaw Hero Urfurufuru"></object>
   </cell>
   <cell X="29" Y="14">
     <object Name="DirtRoad"></object>
-    <object Name="Table" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="30" Y="14">
     <object Name="DirtRoad"></object>
@@ -3008,13 +3032,15 @@
   </cell>
   <cell X="47" Y="14">
     <object Name="DirtRoad"></object>
+    <object Name="Floor Cushion Urfurufuru"></object>
   </cell>
   <cell X="48" Y="14">
     <object Name="DirtRoad"></object>
-    <object Name="Hookah" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
+    <object Name="Hookah"></object>
   </cell>
   <cell X="49" Y="14">
     <object Name="DirtRoad"></object>
+    <object Name="Floor Cushion Urfurufuru"></object>
   </cell>
   <cell X="50" Y="14">
     <object Name="DirtRoad"></object>
@@ -3161,18 +3187,28 @@
   </cell>
   <cell X="28" Y="15">
     <object Name="DirtRoad"></object>
+    <object Name="DirtRoad"></object>
+    <object Name="Chair"></object>
+    <object Name="Snapjaw Hero Urfurufuru"></object>
   </cell>
   <cell X="29" Y="15">
     <object Name="DirtRoad"></object>
+    <object Name="DirtRoad"></object>
+    <object Name="Table" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="30" Y="15">
     <object Name="DirtRoad"></object>
   </cell>
   <cell X="31" Y="15">
     <object Name="DirtRoad"></object>
+    <object Name="DirtRoad"></object>
+    <object Name="Chair"></object>
+    <object Name="Snapjaw Hero Urfurufuru"></object>
   </cell>
   <cell X="32" Y="15">
     <object Name="DirtRoad"></object>
+    <object Name="DirtRoad"></object>
+    <object Name="Table" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="33" Y="15">
     <object Name="DirtRoad"></object>
@@ -3218,15 +3254,15 @@
   </cell>
   <cell X="47" Y="15">
     <object Name="DirtRoad"></object>
+    <object Name="Floor Cushion Urfurufuru"></object>
   </cell>
   <cell X="48" Y="15">
     <object Name="DirtRoad"></object>
-    <object Name="BaseChair" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="Snapjaw Hero Urfurufuru"></object>
+    <object Name="Floor Cushion Urfurufuru"></object>
   </cell>
   <cell X="49" Y="15">
     <object Name="DirtRoad"></object>
-    <object Name="Table" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
+    <object Name="Floor Cushion Urfurufuru"></object>
   </cell>
   <cell X="50" Y="15">
     <object Name="DirtRoad"></object>
@@ -3388,12 +3424,9 @@
   </cell>
   <cell X="31" Y="16">
     <object Name="DirtRoad"></object>
-    <object Name="BaseChair" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="Snapjaw Hero Urfurufuru"></object>
   </cell>
   <cell X="32" Y="16">
     <object Name="DirtRoad"></object>
-    <object Name="Table" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="33" Y="16">
     <object Name="DirtRoad"></object>
@@ -3617,7 +3650,6 @@
   </cell>
   <cell X="31" Y="17">
     <object Name="DirtRoad"></object>
-    <object Name="Hookah" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="32" Y="17">
     <object Name="DirtRoad"></object>

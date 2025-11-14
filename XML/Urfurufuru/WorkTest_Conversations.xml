@@ -103,7 +103,7 @@
             <text>
                 Hoho! You got that right! I could definitely have use for someone on my level of intellect. Let me think...
             </text>
-            <choice ID="End" Target="End">
+            <choice ID="FortUrfurufuru_FirstQuest" Target="FortUrfurufuru_FirstQuest">
                 <text>...</text>
                 <part Name="FortUrfurufuru_TestSuccess" />
             </choice>
@@ -171,7 +171,7 @@
             <text>
                 ... Hrmmm... Yes. YES! We are two of the same! An alliance could prove fruitful indeed. Let's get down to business...
             </text>
-            <choice ID="End" Target="End">
+            <choice ID="FortUrfurufuru_FirstQuest" Target="FortUrfurufuru_FirstQuest">
                 <text>...</text>
                 <part Name="FortUrfurufuru_TestSuccess" />
             </choice>
@@ -181,8 +181,18 @@
             <text>
                 ...hrm yesyes, work... Let me think...
             </text>
+            <choice ID="FortUrfurufuru_FirstQuest" Target="FortUrfurufuru_FirstQuest">
+                <text>...</text>
+            </choice>
+        </node>
+
+        <node ID="FortUrfurufuru_FirstQuest">
+            <text>
+                ...yes ...YES! Let me consult with my council.
+            </text>
             <choice ID="End" Target="End">
                 <text>...</text>
+                <part Name="FortUrfurufuru_Consultation" />
             </choice>
         </node>
 
@@ -220,7 +230,7 @@
             <text>
                 Changed your mind? Well... Dodging my shot was also impressive... I should have use for someone as quick as you... Let me think...
             </text>
-            <choice ID="End" Target="End">
+            <choice ID="FortUrfurufuru_FirstQuest" Target="FortUrfurufuru_FirstQuest">
                 <text>*you nod*</text>
                 <part Name="FortUrfurufuru_TestSuccess" />
             </choice>
@@ -247,7 +257,7 @@
             <text>
                 ...well ...done. You are strong. I should have use for someone as strong as you... Let me think...
             </text>
-            <choice ID="End" Target="End">
+            <choice ID="FortUrfurufuru_FirstQuest" Target="FortUrfurufuru_FirstQuest">
                 <text>*you nod*</text>
                 <part Name="FortUrfurufuru_TestSuccess" />
             </choice>
@@ -256,7 +266,7 @@
             <text>
                 Oho! Impressive! Not many can evade the sure shots of Urfurufuru. I should have use for someone as quick as you... Let me think...
             </text>
-            <choice ID="End" Target="End">
+            <choice ID="FortUrfurufuru_FirstQuest" Target="FortUrfurufuru_FirstQuest">
                 <text>*you nod*</text>
                 <part Name="FortUrfurufuru_TestSuccess" />
             </choice>
@@ -265,7 +275,7 @@
             <text>
                 AH! Impressive! Not even the toughest snapjaw here could take a direct hit from this. I should have use for someone as tough as you... Let me think...
             </text>
-            <choice ID="End" Target="End">
+            <choice ID="FortUrfurufuru_FirstQuest" Target="FortUrfurufuru_FirstQuest">
                 <text>*you nod*</text>
                 <part Name="FortUrfurufuru_TestSuccess" />
             </choice>
@@ -274,7 +284,7 @@
             <text>
                 AHAHA- You still stand? After a direct hit? Maybe you should reconsider what you are good at. Hmmm... I should still have use for someone as tough as you... Let me think...
             </text>
-            <choice ID="End" Target="End">
+            <choice ID="FortUrfurufuru_FirstQuest" Target="FortUrfurufuru_FirstQuest">
                 <text>*you nod*</text>
                 <part Name="FortUrfurufuru_TestSuccess" />
             </choice>
@@ -291,7 +301,7 @@
             <text>
                 ...Your will is strong... Together, we can achieve great things! Let's talk business.
             </text>
-            <choice ID="End" Target="End">
+            <choice ID="FortUrfurufuru_FirstQuest" Target="FortUrfurufuru_FirstQuest">
                 <text>*you nod*</text>
                 <part Name="FortUrfurufuru_TestSuccess" />
             </choice>

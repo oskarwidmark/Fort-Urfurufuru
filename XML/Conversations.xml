@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <conversations>
     <conversation ID="Snapjaw Urfurufuru">
-        <node ID="Start">
+        <start ID="Greeting" FortUrfurufuru_IsSpeakerNotConsulting="true">
             <text>
                 ehehehehehe.~
                 EHEHEHEHEHEHEHE!~
@@ -28,6 +28,13 @@
                 hrf Urfurufuru hrf hrn.
             </text>
             <choice GotoID="End">...live and drink.</choice>
-        </node>
+        </start>
+        <start ID="Consulting" FortUrfurufuru_IsSpeakerConsulting="true" AllowEscape="false">
+            <text>
+                *whispers*~
+                *growls*
+            </text>
+            <choice GotoID="End">...</choice>
+        </start>
     </conversation>
 </conversations>
