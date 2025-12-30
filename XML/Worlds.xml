@@ -3,7 +3,7 @@
 	<world Name="JoppaWorld" Load="Merge">
 		<cell Name="FortUrfurufuru_CellFort" Inherits="Hills"
 			ApplyTo="FortUrfurufuru_TerrainFort" LandingZone="1,1" Mutable="false">
-			<zone Level="5-8" x="1" y="1" Name="sky above Fort Urfurufuru"
+			<zone Level="5-7" x="1" y="1" Name="sky above Fort Urfurufuru"
 				IndefiniteArticle="the"
 				DisableForcedConnections="Yes">
 				<builder Class="Sky" />
@@ -18,7 +18,11 @@
 				IncludeStratumInZoneDisplay="false" DisableForcedConnections="Yes">
 				<map FileName="FortUrfurufuruCenter2.rpm" />
 				<builder Class="Music" Track="Overworld" Chance="100" />
-				<builder Class="IsCheckpoint" Key="FortUrfurufuru" />
+			</zone>
+			<zone Level="8" x="1" y="1" Name="Fort Urfurufuru, private quarters" ProperName="true"
+				IncludeStratumInZoneDisplay="false" DisableForcedConnections="Yes">
+				<map FileName="FortUrfurufuruCenter3.rpm" />
+				<builder Class="Music" Track="Overworld" Chance="100" />
 			</zone>
 		</cell>
 	</world>

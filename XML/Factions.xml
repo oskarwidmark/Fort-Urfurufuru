@@ -2,7 +2,7 @@
 <factions>
 	<faction Name="FortUrfurufuru_UrfurufuruFaction" DisplayName="followers of Urfurufuru"
 		Old="false"
-		FormatWithArticle="false" InitialPlayerReputation="400"
+		FormatWithArticle="false" InitialPlayerReputation="200"
 		PositiveSound="Sounds/Reputation/sfx_reputation_village_positive"
 		NegativeSound="Sounds/Reputation/sfx_reputation_village_negative"
 		EmblemTile="FortUrfurufuru/Urfurufuru_sm.png" EmblemTileColor="W" EmblemDetailColor="R">
@@ -15,6 +15,7 @@
 			<factionworshipattitude Name="Barathrumites" Attitude="-400" />
 			<factionworshipattitude Name="Wardens" Attitude="-400" />
 		</factionworshipattitudes>
+		<holyplace ZoneID="JoppaWorld.10.24.1.1.8" />
 		<interests>
 			<interest Tags="cybernetics" WillBuy="true" WillSell="false" />
 			<interest Tags="stopsvalinn" WillBuy="true" WillSell="false" />

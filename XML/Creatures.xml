@@ -114,4 +114,44 @@
 		<tag Name="Role" Value="Minion" />
 		<part Name="ConversationScript" ConversationID="Snapjaw Urfurufuru" />
 	</object>
+
+	<object Name="Carrito Urfurufuru" Inherits="Urshiib">
+		<part Name="Render" DisplayName="Carrito" ColorString="&amp;W" RenderString="b" Tile="Creatures/sw_bearman3.bmp" DetailColor="R" />
+		<part Name="Brain" Wanders="false" Factions="FortUrfurufuru_UrfurufuruFaction-100" />
+		<stat Name="Agility" sValue="26" />
+		<stat Name="Hitpoints" Value="95" />
+		<stat Name="Level" Value="24" />
+		<part Name="GenericInventoryRestocker" Table="ScrapWares" />
+		<inventoryobject Blueprint="Phase Cannon" Number="1" />
+		<inventoryobject Blueprint="Nuclear Cell" Number="1" />
+		<inventoryobject Blueprint="Umber Frock" />
+		<part Name="ConversationScript" ConversationID="Carrito Urfurufuru" />
+		<part Name="AISelfPreservation" Threshold="40" />
+		<part Name="Interesting" />
+		<part Name="HasMakersMark" Mark="&#12;" Color="R" />
+		<skill Name="Tinkering" />
+		<skill Name="Tinkering_Disassemble" />
+		<skill Name="Tinkering_Repair" />
+		<skill Name="Tinkering_ReverseEngineer" />
+		<skill Name="Tinkering_DeployTurret" />
+		<skill Name="Tinkering_Tinker1" />
+		<skill Name="Tinkering_Tinker2" />
+		<skill Name="Tinkering_Tinker3" />
+		<skill Name="Rifles" />
+		<tag Name="Gender" Value="male" />
+		<tag Name="ExcludeFromDynamicEncounters" Value="*noinherit" />
+		<xtagGrammar Proper="true" />
+	</object>
+
+	<object Name="Phase Cannon Turret Urfurufuru" Inherits="HostileTurret">
+		<part Name="Render" DisplayName="{{G|phase cannon turret}}" RenderString="6" ColorString="&amp;m" Tile="Creatures/sw_chainlaser_emplacement.bmp" DetailColor="c" />
+		<part Name="Brain" Wanders="false" Factions="FortUrfurufuru_UrfurufuruFaction-100" />
+		<part Name="HostileTurretBuilder" />
+		<part Name="PowerSwitch" SecurityClearance="-5" />
+		<inventoryobject Blueprint="Phase Cannon" />
+		<stat Name="Hitpoints" Value="65" />
+		<stat Name="AV" Value="9" />
+		<tag Name="Tier" Value="6" />
+		<tag Name="DynamicObjectsTable:TechTurrets" />
+	</object>
 </objects>

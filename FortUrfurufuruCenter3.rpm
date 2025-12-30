@@ -1279,101 +1279,88 @@
     <object Name="Air"></object>
   </cell>
   <cell X="26" Y="5">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="27" Y="5">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="28" Y="5">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="29" Y="5">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="30" Y="5">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="31" Y="5">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="32" Y="5">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="33" Y="5">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="34" Y="5">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="35" Y="5">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="36" Y="5">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="37" Y="5">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="38" Y="5">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="39" Y="5">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="40" Y="5">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="41" Y="5">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="42" Y="5">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="43" Y="5">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="44" Y="5">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="45" Y="5">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="46" Y="5">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="47" Y="5">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="48" Y="5">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="49" Y="5">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="50" Y="5">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="51" Y="5">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="52" Y="5">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="53" Y="5">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="54" Y="5">
     <object Name="Air"></object>
@@ -1529,104 +1516,94 @@
     <object Name="Air"></object>
   </cell>
   <cell X="25" Y="6">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="26" Y="6">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="27" Y="6">
-    <object Name="WoodFloor"></object>
-    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="28" Y="6">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="29" Y="6">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="30" Y="6">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="31" Y="6">
-    <object Name="WoodFloor"></object>
-    <object Name="Torchpost"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="32" Y="6">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="33" Y="6">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="34" Y="6">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="35" Y="6">
-    <object Name="WoodFloor"></object>
-    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="36" Y="6">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="37" Y="6">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="38" Y="6">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="39" Y="6">
-    <object Name="WoodFloor"></object>
-    <object Name="Snapjaw Hunter Urfurufuru"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="40" Y="6">
-    <object Name="WoodFloor"></object>
-    <object Name="Snapjaw Hunter Urfurufuru"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="41" Y="6">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="42" Y="6">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="43" Y="6">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="44" Y="6">
-    <object Name="WoodFloor"></object>
-    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="45" Y="6">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="46" Y="6">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="47" Y="6">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="48" Y="6">
-    <object Name="WoodFloor"></object>
-    <object Name="Torchpost"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="49" Y="6">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="50" Y="6">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="51" Y="6">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="52" Y="6">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="53" Y="6">
-    <object Name="WoodFloor"></object>
-    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="54" Y="6">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="55" Y="6">
     <object Name="Air"></object>
@@ -1777,12 +1754,13 @@
   </cell>
   <cell X="24" Y="7">
     <object Name="Air"></object>
+    <object Name="Torchpost" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="25" Y="7">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="26" Y="7">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="27" Y="7">
     <object Name="WoodFloor"></object>
@@ -1790,7 +1768,6 @@
   </cell>
   <cell X="28" Y="7">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="29" Y="7">
     <object Name="WoodFloor"></object>
@@ -1798,7 +1775,6 @@
   </cell>
   <cell X="30" Y="7">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="31" Y="7">
     <object Name="WoodFloor"></object>
@@ -1806,7 +1782,6 @@
   </cell>
   <cell X="32" Y="7">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="33" Y="7">
     <object Name="WoodFloor"></object>
@@ -1814,7 +1789,6 @@
   </cell>
   <cell X="34" Y="7">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="35" Y="7">
     <object Name="WoodFloor"></object>
@@ -1822,7 +1796,6 @@
   </cell>
   <cell X="36" Y="7">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="37" Y="7">
     <object Name="WoodFloor"></object>
@@ -1830,7 +1803,6 @@
   </cell>
   <cell X="38" Y="7">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="39" Y="7">
     <object Name="WoodFloor"></object>
@@ -1842,7 +1814,6 @@
   </cell>
   <cell X="41" Y="7">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="42" Y="7">
     <object Name="WoodFloor"></object>
@@ -1850,7 +1821,6 @@
   </cell>
   <cell X="43" Y="7">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="44" Y="7">
     <object Name="WoodFloor"></object>
@@ -1858,7 +1828,6 @@
   </cell>
   <cell X="45" Y="7">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="46" Y="7">
     <object Name="WoodFloor"></object>
@@ -1866,7 +1835,6 @@
   </cell>
   <cell X="47" Y="7">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="48" Y="7">
     <object Name="WoodFloor"></object>
@@ -1874,7 +1842,6 @@
   </cell>
   <cell X="49" Y="7">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="50" Y="7">
     <object Name="WoodFloor"></object>
@@ -1882,17 +1849,16 @@
   </cell>
   <cell X="51" Y="7">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="52" Y="7">
     <object Name="WoodFloor"></object>
     <object Name="WoodWall"></object>
   </cell>
   <cell X="53" Y="7">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="54" Y="7">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="55" Y="7">
     <object Name="Air"></object>
@@ -2018,178 +1984,152 @@
     <object Name="Air"></object>
   </cell>
   <cell X="16" Y="8">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="17" Y="8">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="18" Y="8">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="19" Y="8">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="20" Y="8">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="21" Y="8">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="22" Y="8">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="23" Y="8">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="24" Y="8">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="25" Y="8">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="26" Y="8">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="27" Y="8">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="28" Y="8">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="29" Y="8">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="30" Y="8">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="31" Y="8">
     <object Name="WoodFloor"></object>
-    <object Name="Garbage"></object>
   </cell>
   <cell X="32" Y="8">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="33" Y="8">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="34" Y="8">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="35" Y="8">
     <object Name="WoodFloor"></object>
-    <object Name="Garbage"></object>
   </cell>
   <cell X="36" Y="8">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="37" Y="8">
     <object Name="WoodFloor"></object>
+    <object Name="Bookshelf"></object>
   </cell>
   <cell X="38" Y="8">
     <object Name="WoodFloor"></object>
   </cell>
   <cell X="39" Y="8">
     <object Name="WoodFloor"></object>
+    <object Name="Bookshelf"></object>
   </cell>
   <cell X="40" Y="8">
     <object Name="WoodFloor"></object>
+    <object Name="Bookshelf"></object>
   </cell>
   <cell X="41" Y="8">
     <object Name="WoodFloor"></object>
   </cell>
   <cell X="42" Y="8">
     <object Name="WoodFloor"></object>
+    <object Name="Bookshelf"></object>
   </cell>
   <cell X="43" Y="8">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="44" Y="8">
     <object Name="WoodFloor"></object>
-    <object Name="WoodFloor"></object>
-    <object Name="Garbage"></object>
   </cell>
   <cell X="45" Y="8">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="46" Y="8">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="47" Y="8">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="48" Y="8">
     <object Name="WoodFloor"></object>
   </cell>
   <cell X="49" Y="8">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="50" Y="8">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="51" Y="8">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="52" Y="8">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="53" Y="8">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="54" Y="8">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="55" Y="8">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="56" Y="8">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="57" Y="8">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="58" Y="8">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="59" Y="8">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="60" Y="8">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="61" Y="8">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="62" Y="8">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="63" Y="8">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="64" Y="8">
     <object Name="Air"></object>
@@ -2288,38 +2228,37 @@
     <object Name="Air"></object>
   </cell>
   <cell X="16" Y="9">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="17" Y="9">
-    <object Name="WoodFloor"></object>
-    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="18" Y="9">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="19" Y="9">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="20" Y="9">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="21" Y="9">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="22" Y="9">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="23" Y="9">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="24" Y="9">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="25" Y="9">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="26" Y="9">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="27" Y="9">
     <object Name="WoodFloor"></object>
@@ -2327,7 +2266,6 @@
   </cell>
   <cell X="28" Y="9">
     <object Name="WoodFloor"></object>
-    <object Name="Garbage"></object>
   </cell>
   <cell X="29" Y="9">
     <object Name="WoodFloor"></object>
@@ -2399,45 +2337,43 @@
   </cell>
   <cell X="51" Y="9">
     <object Name="WoodFloor"></object>
-    <object Name="Garbage"></object>
   </cell>
   <cell X="52" Y="9">
     <object Name="WoodFloor"></object>
     <object Name="WoodWall"></object>
   </cell>
   <cell X="53" Y="9">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="54" Y="9">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="55" Y="9">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="56" Y="9">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="57" Y="9">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="58" Y="9">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="59" Y="9">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="60" Y="9">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="61" Y="9">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="62" Y="9">
-    <object Name="WoodFloor"></object>
-    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="63" Y="9">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="64" Y="9">
     <object Name="Air"></object>
@@ -2536,50 +2472,43 @@
     <object Name="Air"></object>
   </cell>
   <cell X="16" Y="10">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="17" Y="10">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="18" Y="10">
-    <object Name="WoodFloor"></object>
-    <object Name="Torchpost"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="19" Y="10">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="20" Y="10">
-    <object Name="WoodFloor"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="21" Y="10">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="22" Y="10">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="23" Y="10">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="24" Y="10">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="25" Y="10">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="26" Y="10">
-    <object Name="WoodFloor"></object>
-    <object Name="Torchpost" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="27" Y="10">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="28" Y="10">
     <object Name="WoodFloor"></object>
-    <object Name="Garbage"></object>
-    <object Name="Torchpost" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="29" Y="10">
     <object Name="WoodFloor"></object>
@@ -2650,47 +2579,43 @@
     <object Name="WoodFloor"></object>
   </cell>
   <cell X="51" Y="10">
-    <object Name="Torchpost" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
+    <object Name="WoodFloor"></object>
   </cell>
   <cell X="52" Y="10">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="53" Y="10">
-    <object Name="WoodFloor"></object>
-    <object Name="Torchpost" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="54" Y="10">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="55" Y="10">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="56" Y="10">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="57" Y="10">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="58" Y="10">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="59" Y="10">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="60" Y="10">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="61" Y="10">
-    <object Name="WoodFloor"></object>
-    <object Name="Torchpost"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="62" Y="10">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="63" Y="10">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="64" Y="10">
     <object Name="Air"></object>
@@ -2789,41 +2714,41 @@
     <object Name="Air"></object>
   </cell>
   <cell X="16" Y="11">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="17" Y="11">
-    <object Name="WoodFloor"></object>
-    <object Name="Snapjaw Hunter Urfurufuru"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="18" Y="11">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="19" Y="11">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="20" Y="11">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="21" Y="11">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="22" Y="11">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="23" Y="11">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="24" Y="11">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="25" Y="11">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="26" Y="11">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="27" Y="11">
     <object Name="WoodFloor"></object>
+    <object Name="WoodWall"></object>
   </cell>
   <cell X="28" Y="11">
     <object Name="WoodFloor"></object>
@@ -2854,9 +2779,12 @@
   </cell>
   <cell X="37" Y="11">
     <object Name="WoodFloor"></object>
+    <object Name="Chair"></object>
+    <object Name="Carrito Urfurufuru"></object>
   </cell>
   <cell X="38" Y="11">
     <object Name="WoodFloor"></object>
+    <object Name="Desk"></object>
   </cell>
   <cell X="39" Y="11">
     <object Name="WoodFloor"></object>
@@ -2871,6 +2799,7 @@
   </cell>
   <cell X="42" Y="11">
     <object Name="WoodFloor"></object>
+    <object Name="Four-Poster Bed"></object>
   </cell>
   <cell X="43" Y="11">
     <object Name="WoodFloor"></object>
@@ -2901,41 +2830,40 @@
   </cell>
   <cell X="52" Y="11">
     <object Name="WoodFloor"></object>
+    <object Name="WoodWall"></object>
   </cell>
   <cell X="53" Y="11">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="54" Y="11">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="55" Y="11">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="56" Y="11">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="57" Y="11">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="58" Y="11">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="59" Y="11">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="60" Y="11">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="61" Y="11">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="62" Y="11">
-    <object Name="WoodFloor"></object>
-    <object Name="Snapjaw Hunter Urfurufuru"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="63" Y="11">
-    <object Name="WoodFloor"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="64" Y="11">
     <object Name="Air"></object>
@@ -3034,41 +2962,41 @@
     <object Name="Air"></object>
   </cell>
   <cell X="16" Y="12">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="17" Y="12">
-    <object Name="WoodFloor"></object>
-    <object Name="Snapjaw Hunter Urfurufuru"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="18" Y="12">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="19" Y="12">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="20" Y="12">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="21" Y="12">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="22" Y="12">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="23" Y="12">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="24" Y="12">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="25" Y="12">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="26" Y="12">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="27" Y="12">
     <object Name="WoodFloor"></object>
+    <object Name="WoodWall"></object>
   </cell>
   <cell X="28" Y="12">
     <object Name="WoodFloor"></object>
@@ -3144,40 +3072,40 @@
   </cell>
   <cell X="52" Y="12">
     <object Name="WoodFloor"></object>
+    <object Name="WoodWall"></object>
   </cell>
   <cell X="53" Y="12">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="54" Y="12">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="55" Y="12">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="56" Y="12">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="57" Y="12">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="58" Y="12">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="59" Y="12">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="60" Y="12">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="61" Y="12">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="62" Y="12">
-    <object Name="WoodFloor"></object>
-    <object Name="Snapjaw Hunter Urfurufuru"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="63" Y="12">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="64" Y="12">
     <object Name="Air"></object>
@@ -3276,49 +3204,43 @@
     <object Name="Air"></object>
   </cell>
   <cell X="16" Y="13">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="17" Y="13">
-    <object Name="WoodFloor"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="18" Y="13">
-    <object Name="WoodFloor"></object>
-    <object Name="Torchpost"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="19" Y="13">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="20" Y="13">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="21" Y="13">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="22" Y="13">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="23" Y="13">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="24" Y="13">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="25" Y="13">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="26" Y="13">
-    <object Name="WoodFloor"></object>
-    <object Name="Torchpost" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="27" Y="13">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="28" Y="13">
     <object Name="WoodFloor"></object>
-    <object Name="Torchpost" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="29" Y="13">
     <object Name="WoodFloor"></object>
@@ -3351,16 +3273,17 @@
   </cell>
   <cell X="38" Y="13">
     <object Name="WoodFloor"></object>
+    <object Name="Phase Cannon Turret Urfurufuru"></object>
   </cell>
   <cell X="39" Y="13">
-    <object Name="StairsUp"></object>
+    <object Name="StairsDown"></object>
   </cell>
   <cell X="40" Y="13">
-    <object Name="WoodFloor"></object>
-    <object Name="StairsUp"></object>
+    <object Name="StairsDown"></object>
   </cell>
   <cell X="41" Y="13">
     <object Name="WoodFloor"></object>
+    <object Name="Phase Cannon Turret Urfurufuru"></object>
   </cell>
   <cell X="42" Y="13">
     <object Name="WoodFloor"></object>
@@ -3392,48 +3315,42 @@
   </cell>
   <cell X="51" Y="13">
     <object Name="WoodFloor"></object>
-    <object Name="Torchpost" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="52" Y="13">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="53" Y="13">
-    <object Name="WoodFloor"></object>
-    <object Name="Torchpost" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="54" Y="13">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="55" Y="13">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="56" Y="13">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="57" Y="13">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="58" Y="13">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="59" Y="13">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="60" Y="13">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="61" Y="13">
-    <object Name="WoodFloor"></object>
-    <object Name="Torchpost"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="62" Y="13">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="63" Y="13">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="64" Y="13">
     <object Name="Air"></object>
@@ -3532,39 +3449,37 @@
     <object Name="Air"></object>
   </cell>
   <cell X="16" Y="14">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="17" Y="14">
-    <object Name="WoodFloor"></object>
-    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="18" Y="14">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="19" Y="14">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="20" Y="14">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="21" Y="14">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="22" Y="14">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="23" Y="14">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="24" Y="14">
-    <object Name="WoodFloor"></object>
-    <object Name="StairsDown"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="25" Y="14">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="26" Y="14">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="27" Y="14">
     <object Name="WoodFloor"></object>
@@ -3572,7 +3487,6 @@
   </cell>
   <cell X="28" Y="14">
     <object Name="WoodFloor"></object>
-    <object Name="Garbage"></object>
   </cell>
   <cell X="29" Y="14">
     <object Name="WoodFloor"></object>
@@ -3642,46 +3556,43 @@
   </cell>
   <cell X="51" Y="14">
     <object Name="WoodFloor"></object>
-    <object Name="Garbage"></object>
   </cell>
   <cell X="52" Y="14">
     <object Name="WoodFloor"></object>
     <object Name="WoodWall"></object>
   </cell>
   <cell X="53" Y="14">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="54" Y="14">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="55" Y="14">
-    <object Name="WoodFloor"></object>
-    <object Name="StairsDown"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="56" Y="14">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="57" Y="14">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="58" Y="14">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="59" Y="14">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="60" Y="14">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="61" Y="14">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="62" Y="14">
-    <object Name="WoodFloor"></object>
-    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="63" Y="14">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="64" Y="14">
     <object Name="Air"></object>
@@ -3780,90 +3691,70 @@
     <object Name="Air"></object>
   </cell>
   <cell X="16" Y="15">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="17" Y="15">
-    <object Name="WoodFloor"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="18" Y="15">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="19" Y="15">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="20" Y="15">
-    <object Name="WoodWall"></object>
-    <object Name="WoodFloor"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="21" Y="15">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="22" Y="15">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="23" Y="15">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="24" Y="15">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="25" Y="15">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="26" Y="15">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="27" Y="15">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="28" Y="15">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="29" Y="15">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="30" Y="15">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="31" Y="15">
     <object Name="WoodFloor"></object>
-    <object Name="Garbage"></object>
   </cell>
   <cell X="32" Y="15">
     <object Name="WoodFloor"></object>
-    <object Name="WoodFloor"></object>
-    <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="33" Y="15">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="34" Y="15">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="35" Y="15">
     <object Name="WoodFloor"></object>
   </cell>
   <cell X="36" Y="15">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="37" Y="15">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="38" Y="15">
     <object Name="WoodFloor"></object>
@@ -3879,85 +3770,69 @@
   </cell>
   <cell X="42" Y="15">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="43" Y="15">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="44" Y="15">
     <object Name="WoodFloor"></object>
-    <object Name="Garbage"></object>
   </cell>
   <cell X="45" Y="15">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="46" Y="15">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="47" Y="15">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="48" Y="15">
     <object Name="WoodFloor"></object>
-    <object Name="Garbage"></object>
   </cell>
   <cell X="49" Y="15">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="50" Y="15">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="51" Y="15">
     <object Name="WoodFloor"></object>
-    <object Name="Bedroll" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
   </cell>
   <cell X="52" Y="15">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="53" Y="15">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="54" Y="15">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="55" Y="15">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="56" Y="15">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="57" Y="15">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="58" Y="15">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="59" Y="15">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="60" Y="15">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="61" Y="15">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="62" Y="15">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="63" Y="15">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="64" Y="15">
     <object Name="Air"></object>
@@ -4083,10 +3958,10 @@
     <object Name="Air"></object>
   </cell>
   <cell X="25" Y="16">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="26" Y="16">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="27" Y="16">
     <object Name="WoodFloor"></object>
@@ -4094,7 +3969,6 @@
   </cell>
   <cell X="28" Y="16">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="29" Y="16">
     <object Name="WoodFloor"></object>
@@ -4102,7 +3976,6 @@
   </cell>
   <cell X="30" Y="16">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="31" Y="16">
     <object Name="WoodFloor"></object>
@@ -4110,7 +3983,6 @@
   </cell>
   <cell X="32" Y="16">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="33" Y="16">
     <object Name="WoodFloor"></object>
@@ -4118,7 +3990,6 @@
   </cell>
   <cell X="34" Y="16">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="35" Y="16">
     <object Name="WoodFloor"></object>
@@ -4126,7 +3997,6 @@
   </cell>
   <cell X="36" Y="16">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="37" Y="16">
     <object Name="WoodFloor"></object>
@@ -4134,13 +4004,14 @@
   </cell>
   <cell X="38" Y="16">
     <object Name="WoodFloor"></object>
-    <object Name="WoodFloor"></object>
   </cell>
   <cell X="39" Y="16">
     <object Name="WoodFloor"></object>
+    <object Name="WoodWall"></object>
   </cell>
   <cell X="40" Y="16">
     <object Name="WoodFloor"></object>
+    <object Name="WoodWall"></object>
   </cell>
   <cell X="41" Y="16">
     <object Name="WoodFloor"></object>
@@ -4151,7 +4022,6 @@
   </cell>
   <cell X="43" Y="16">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="44" Y="16">
     <object Name="WoodFloor"></object>
@@ -4159,7 +4029,6 @@
   </cell>
   <cell X="45" Y="16">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="46" Y="16">
     <object Name="WoodFloor"></object>
@@ -4167,7 +4036,6 @@
   </cell>
   <cell X="47" Y="16">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="48" Y="16">
     <object Name="WoodFloor"></object>
@@ -4175,7 +4043,6 @@
   </cell>
   <cell X="49" Y="16">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="50" Y="16">
     <object Name="WoodFloor"></object>
@@ -4183,17 +4050,16 @@
   </cell>
   <cell X="51" Y="16">
     <object Name="WoodFloor"></object>
-    <object Name="WoodWall"></object>
   </cell>
   <cell X="52" Y="16">
     <object Name="WoodFloor"></object>
     <object Name="WoodWall"></object>
   </cell>
   <cell X="53" Y="16">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="54" Y="16">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="55" Y="16">
     <object Name="Air"></object>
@@ -4346,106 +4212,94 @@
     <object Name="Air"></object>
   </cell>
   <cell X="25" Y="17">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="26" Y="17">
-    <object Name="WoodFloor"></object>
-    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="27" Y="17">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="28" Y="17">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="29" Y="17">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="30" Y="17">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="31" Y="17">
-    <object Name="WoodFloor"></object>
-    <object Name="Torchpost"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="32" Y="17">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="33" Y="17">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="34" Y="17">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="35" Y="17">
-    <object Name="WoodFloor"></object>
-    <object Name="WoodFloor"></object>
-    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="36" Y="17">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="37" Y="17">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="38" Y="17">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="39" Y="17">
-    <object Name="WoodFloor"></object>
-    <object Name="Snapjaw Hunter Urfurufuru"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="40" Y="17">
-    <object Name="WoodFloor"></object>
-    <object Name="Snapjaw Hunter Urfurufuru"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="41" Y="17">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="42" Y="17">
-    <object Name="WoodFloor"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="43" Y="17">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="44" Y="17">
-    <object Name="WoodFloor"></object>
-    <object Name="WoodFloor"></object>
-    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="45" Y="17">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="46" Y="17">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="47" Y="17">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="48" Y="17">
-    <object Name="WoodFloor"></object>
-    <object Name="Torchpost"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="49" Y="17">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="50" Y="17">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="51" Y="17">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="52" Y="17">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="53" Y="17">
-    <object Name="WoodFloor"></object>
-    <object Name="Snapjaw Shotgunner Urfurufuru"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="54" Y="17">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="55" Y="17">
     <object Name="Air"></object>
@@ -4601,103 +4455,88 @@
     <object Name="Air"></object>
   </cell>
   <cell X="26" Y="18">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="27" Y="18">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="28" Y="18">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="29" Y="18">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="30" Y="18">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="31" Y="18">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="32" Y="18">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="33" Y="18">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="34" Y="18">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="35" Y="18">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="36" Y="18">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="37" Y="18">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="38" Y="18">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="39" Y="18">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="40" Y="18">
-    <object Name="WoodFloor"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="41" Y="18">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="42" Y="18">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="43" Y="18">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="44" Y="18">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="45" Y="18">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="46" Y="18">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="47" Y="18">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="48" Y="18">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="49" Y="18">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="50" Y="18">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="51" Y="18">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="52" Y="18">
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="53" Y="18">
-    <object Name="WoodWall" Owner="FortUrfurufuru_UrfurufuruFaction"></object>
-    <object Name="WoodFloor"></object>
+    <object Name="Air"></object>
   </cell>
   <cell X="54" Y="18">
     <object Name="Air"></object>
