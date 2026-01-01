@@ -115,8 +115,8 @@
 		<part Name="ConversationScript" ConversationID="Snapjaw Urfurufuru" />
 	</object>
 
-	<object Name="Carrito Urfurufuru" Inherits="Urshiib">
-		<part Name="Render" DisplayName="Carrito" ColorString="&amp;W" RenderString="b" Tile="Creatures/sw_bearman3.bmp" DetailColor="R" />
+	<object Name="Bernardo Urfurufuru" Inherits="Urshiib">
+		<part Name="Render" DisplayName="Bernardo" ColorString="&amp;Y" RenderString="b" Tile="FortUrfurufuru/Bernardo.png" DetailColor="R" />
 		<part Name="Brain" Wanders="false" Factions="FortUrfurufuru_UrfurufuruFaction-100" />
 		<stat Name="Agility" sValue="26" />
 		<stat Name="Hitpoints" Value="95" />
@@ -124,11 +124,11 @@
 		<part Name="GenericInventoryRestocker" Table="ScrapWares" />
 		<inventoryobject Blueprint="Phase Cannon" Number="1" />
 		<inventoryobject Blueprint="Nuclear Cell" Number="1" />
-		<inventoryobject Blueprint="Umber Frock" />
-		<part Name="ConversationScript" ConversationID="Carrito Urfurufuru" />
+		<inventoryobject Blueprint="Scarlet Frock" />
+		<part Name="ConversationScript" ConversationID="Bernardo Urfurufuru" />
 		<part Name="AISelfPreservation" Threshold="40" />
 		<part Name="Interesting" />
-		<part Name="HasMakersMark" Mark="&#12;" Color="R" />
+		<part Name="HasMakersMark" Mark="B" Color="R" />
 		<skill Name="Tinkering" />
 		<skill Name="Tinkering_Disassemble" />
 		<skill Name="Tinkering_Repair" />
@@ -138,6 +138,9 @@
 		<skill Name="Tinkering_Tinker2" />
 		<skill Name="Tinkering_Tinker3" />
 		<skill Name="Rifles" />
+		<skill Name="HeavyWeapons" />
+		<skill Name="HeavyWeapons_Tank" />
+		<skill Name="HeavyWeapons_Sweep" />
 		<tag Name="Gender" Value="male" />
 		<tag Name="ExcludeFromDynamicEncounters" Value="*noinherit" />
 		<xtagGrammar Proper="true" />

@@ -9,4 +9,13 @@
 		<tag Name="OverlayColor" Value="&amp;W" />
 		<tag Name="Terrain" Value="Hills" />
 	</object>
+
+	<object Name="Scarlet Frock" Inherits="BaseArmor">
+		<part Name="Render" DisplayName="{{R|scarlet}} frock" RenderString="]" Tile="Items/sw_robes1.bmp" ColorString="&amp;R" DetailColor="Y" />
+		<part Name="Description" Short="Rough and itchy flax was coarsely threaded, cut to shape, and cinched by a hemp rope. The fabric has been dyed with crushed insects shaved from an oak from the Bowl of Iris" />
+		<part Name="Armor" AV="0" DV="2" WornOn="Body" />
+		<part Name="Commerce" Value="25" />
+		<part Name="Physics" Weight="3" />
+		<tag Name="Tier" Value="2" />
+	</object>
 </objects>
