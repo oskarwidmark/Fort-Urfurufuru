@@ -2033,6 +2033,7 @@
   </cell>
   <cell X="32" Y="8">
     <object Name="WoodFloor"></object>
+    <object Name="MedLocker"></object>
   </cell>
   <cell X="33" Y="8">
     <object Name="WoodFloor"></object>
@@ -2042,6 +2043,7 @@
   </cell>
   <cell X="35" Y="8">
     <object Name="WoodFloor"></object>
+    <object Name="GritGateBed"></object>
   </cell>
   <cell X="36" Y="8">
     <object Name="WoodFloor"></object>
@@ -2272,15 +2274,18 @@
   </cell>
   <cell X="30" Y="9">
     <object Name="WoodFloor"></object>
+    <object Name="ScrapChest"></object>
   </cell>
   <cell X="31" Y="9">
     <object Name="WoodFloor"></object>
   </cell>
   <cell X="32" Y="9">
     <object Name="WoodFloor"></object>
+    <object Name="Alchemist Table"></object>
   </cell>
   <cell X="33" Y="9">
     <object Name="WoodFloor"></object>
+    <object Name="Techlight1"></object>
   </cell>
   <cell X="34" Y="9">
     <object Name="WoodFloor"></object>
@@ -2512,15 +2517,19 @@
   </cell>
   <cell X="29" Y="10">
     <object Name="WoodFloor"></object>
+    <object Name="Powerless Electrothing"></object>
   </cell>
   <cell X="30" Y="10">
     <object Name="WoodFloor"></object>
   </cell>
   <cell X="31" Y="10">
     <object Name="WoodFloor"></object>
+    <object Name="GritGateWorkChair"></object>
+    <object Name="Bernardo Urfurufuru"></object>
   </cell>
   <cell X="32" Y="10">
     <object Name="WoodFloor"></object>
+    <object Name="Metal Workbench"></object>
   </cell>
   <cell X="33" Y="10">
     <object Name="WoodFloor"></object>
@@ -2543,9 +2552,11 @@
   </cell>
   <cell X="39" Y="10">
     <object Name="WoodFloor"></object>
+    <object Name="Armchair"></object>
   </cell>
   <cell X="40" Y="10">
     <object Name="WoodFloor"></object>
+    <object Name="Table"></object>
   </cell>
   <cell X="41" Y="10">
     <object Name="WoodFloor"></object>
@@ -2565,15 +2576,19 @@
   </cell>
   <cell X="46" Y="10">
     <object Name="WoodFloor"></object>
+    <object Name="BrickWall"></object>
   </cell>
   <cell X="47" Y="10">
     <object Name="WoodFloor"></object>
+    <object Name="BrickWall"></object>
   </cell>
   <cell X="48" Y="10">
     <object Name="WoodFloor"></object>
+    <object Name="BrickWall"></object>
   </cell>
   <cell X="49" Y="10">
     <object Name="WoodFloor"></object>
+    <object Name="BrickWall"></object>
   </cell>
   <cell X="50" Y="10">
     <object Name="WoodFloor"></object>
@@ -2755,15 +2770,18 @@
   </cell>
   <cell X="29" Y="11">
     <object Name="WoodFloor"></object>
+    <object Name="HeavyPowerLine"></object>
   </cell>
   <cell X="30" Y="11">
     <object Name="WoodFloor"></object>
   </cell>
   <cell X="31" Y="11">
     <object Name="WoodFloor"></object>
+    <object Name="Unpowered Gas Burner"></object>
   </cell>
   <cell X="32" Y="11">
     <object Name="WoodFloor"></object>
+    <object Name="HeavyPowerLine"></object>
   </cell>
   <cell X="33" Y="11">
     <object Name="WoodFloor"></object>
@@ -2779,15 +2797,11 @@
   </cell>
   <cell X="37" Y="11">
     <object Name="WoodFloor"></object>
-    <object Name="Chair"></object>
-    <object Name="Bernardo Urfurufuru"></object>
   </cell>
   <cell X="38" Y="11">
     <object Name="WoodFloor"></object>
-    <object Name="Desk"></object>
   </cell>
   <cell X="39" Y="11">
-    <object Name="WoodFloor"></object>
     <object Name="WoodFloor"></object>
   </cell>
   <cell X="40" Y="11">
@@ -2799,7 +2813,6 @@
   </cell>
   <cell X="42" Y="11">
     <object Name="WoodFloor"></object>
-    <object Name="Four-Poster Bed"></object>
   </cell>
   <cell X="43" Y="11">
     <object Name="WoodFloor"></object>
@@ -2812,15 +2825,19 @@
   </cell>
   <cell X="46" Y="11">
     <object Name="WoodFloor"></object>
+    <object Name="BrickWall"></object>
   </cell>
   <cell X="47" Y="11">
     <object Name="WoodFloor"></object>
+    <object Name="WalltrapFire"></object>
   </cell>
   <cell X="48" Y="11">
     <object Name="WoodFloor"></object>
+    <object Name="WalltrapFire"></object>
   </cell>
   <cell X="49" Y="11">
     <object Name="WoodFloor"></object>
+    <object Name="BrickWall"></object>
   </cell>
   <cell X="50" Y="11">
     <object Name="WoodFloor"></object>
@@ -3003,15 +3020,19 @@
   </cell>
   <cell X="29" Y="12">
     <object Name="WoodFloor"></object>
+    <object Name="HeavyPowerLine"></object>
   </cell>
   <cell X="30" Y="12">
     <object Name="WoodFloor"></object>
+    <object Name="HeavyPowerLine"></object>
   </cell>
   <cell X="31" Y="12">
     <object Name="WoodFloor"></object>
+    <object Name="HeavyPowerLine"></object>
   </cell>
   <cell X="32" Y="12">
     <object Name="WoodFloor"></object>
+    <object Name="HeavyPowerLine"></object>
   </cell>
   <cell X="33" Y="12">
     <object Name="WoodFloor"></object>
@@ -3053,16 +3074,19 @@
     <object Name="WoodFloor"></object>
   </cell>
   <cell X="46" Y="12">
-    <object Name="WoodFloor"></object>
+    <object Name="BrickWall"></object>
   </cell>
   <cell X="47" Y="12">
     <object Name="WoodFloor"></object>
+    <object Name="Bones"></object>
   </cell>
   <cell X="48" Y="12">
     <object Name="WoodFloor"></object>
+    <object Name="Bones"></object>
   </cell>
   <cell X="49" Y="12">
     <object Name="WoodFloor"></object>
+    <object Name="BrickWall"></object>
   </cell>
   <cell X="50" Y="12">
     <object Name="WoodFloor"></object>
@@ -3253,6 +3277,7 @@
   </cell>
   <cell X="32" Y="13">
     <object Name="WoodFloor"></object>
+    <object Name="HeavyPowerLine"></object>
   </cell>
   <cell X="33" Y="13">
     <object Name="WoodFloor"></object>
@@ -3300,15 +3325,18 @@
   </cell>
   <cell X="46" Y="13">
     <object Name="WoodFloor"></object>
+    <object Name="BrickWall"></object>
   </cell>
   <cell X="47" Y="13">
     <object Name="WoodFloor"></object>
+    <object Name="Green Security Door"></object>
   </cell>
   <cell X="48" Y="13">
-    <object Name="WoodFloor"></object>
+    <object Name="BrickWall"></object>
   </cell>
   <cell X="49" Y="13">
     <object Name="WoodFloor"></object>
+    <object Name="BrickWall"></object>
   </cell>
   <cell X="50" Y="13">
     <object Name="WoodFloor"></object>
@@ -3496,36 +3524,48 @@
   </cell>
   <cell X="31" Y="14">
     <object Name="WoodFloor"></object>
+    <object Name="WoodFloor"></object>
+    <object Name="Fusion Power Station"></object>
   </cell>
   <cell X="32" Y="14">
     <object Name="WoodFloor"></object>
+    <object Name="HeavyPowerLine"></object>
   </cell>
   <cell X="33" Y="14">
     <object Name="WoodFloor"></object>
+    <object Name="HeavyPowerLine"></object>
   </cell>
   <cell X="34" Y="14">
     <object Name="WoodFloor"></object>
+    <object Name="HeavyPowerLine"></object>
   </cell>
   <cell X="35" Y="14">
     <object Name="WoodFloor"></object>
+    <object Name="HeavyPowerLine"></object>
   </cell>
   <cell X="36" Y="14">
     <object Name="WoodFloor"></object>
+    <object Name="HeavyPowerLine"></object>
   </cell>
   <cell X="37" Y="14">
     <object Name="WoodFloor"></object>
+    <object Name="HeavyPowerLine"></object>
   </cell>
   <cell X="38" Y="14">
     <object Name="WoodFloor"></object>
+    <object Name="HeavyPowerLine"></object>
   </cell>
   <cell X="39" Y="14">
     <object Name="WoodFloor"></object>
+    <object Name="HeavyPowerLine"></object>
   </cell>
   <cell X="40" Y="14">
     <object Name="WoodFloor"></object>
+    <object Name="HeavyPowerLine"></object>
   </cell>
   <cell X="41" Y="14">
     <object Name="WoodFloor"></object>
+    <object Name="HeavyPowerLine"></object>
   </cell>
   <cell X="42" Y="14">
     <object Name="WoodFloor"></object>
@@ -3761,9 +3801,11 @@
   </cell>
   <cell X="39" Y="15">
     <object Name="WoodFloor"></object>
+    <object Name="Phase Cannon Turret Urfurufuru"></object>
   </cell>
   <cell X="40" Y="15">
     <object Name="WoodFloor"></object>
+    <object Name="Phase Cannon Turret Urfurufuru"></object>
   </cell>
   <cell X="41" Y="15">
     <object Name="WoodFloor"></object>

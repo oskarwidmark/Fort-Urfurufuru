@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<conversations>
+    <conversation ID="Bernardo Urfurufuru">
+        <node ID="Bernardo_BaseResponses">
+            <choice ID="End" Target="End">
+                <text>Live and drink...</text>
+            </choice>
+        </node>
+        <start ID="Bernardo_Greeting" Inherits="Bernardo_BaseResponses">
+            <text>
+                Do not disturb me, outsider.
+            </text>
+        </start>
+    </conversation>
+</conversations>
